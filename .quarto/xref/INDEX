@@ -13,5 +13,8 @@
   },
   "lesson.qmd": {
     "lesson.html": "902ac7f6"
+  },
+  "lesson/Lesson01/lesson01.qmd": {
+    "lesson01.html": "15e8be7d"
   }
 }

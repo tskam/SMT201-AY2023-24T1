@@ -145,5 +145,68 @@
     "title": "Syllabus",
     "section": "Reference",
     "text": "Reference\n\nCore Readings\n\nJochen Albrecht (2007) Key Concepts & Techniques in GIS, SAGE Publication, London, UK.\nJonathan Campbell and MIchael Shin (2011) Essentials of Geographic Information Systems, Saylor Foundation.\nMaarseveen, Martin van.; Martinez, Javier.; Flacke, Johannes. (2019) GIS in Sustainable Urban Planning and Management, CRC Press.\n\n\n\nAdditional Readings\n\nDavid L. Berlyva (2002) Practical GIS Analysis, Taylor and Francis, London, UK.\nC. Dana Tomlin and C Dana Tomlin (2012) GIS and Cartographic Modeling, ESRI Press, Redland, USA."
+  },
+  {
+    "objectID": "lesson/Lesson01/lesson01.html#what-will-you-learn-from-this-lesson",
+    "href": "lesson/Lesson01/lesson01.html#what-will-you-learn-from-this-lesson",
+    "title": "Lesson 1: Introduction to Geographic Information Systems for Urban Planning",
+    "section": "What will you learn from this lesson?",
+    "text": "What will you learn from this lesson?\n\nIntroducing Urban Planning\n\nMotivation of urban planning\nUrban planning practice\nUrban planning in Singapore\n\nGeographic Information Systems (GIS) Fundamentals\n\nBasic concepts of GIS\nMajor components of a GIS\nGIS toolkits"
+  },
+  {
+    "objectID": "lesson/Lesson01/lesson01.html#what-is-urban-planning",
+    "href": "lesson/Lesson01/lesson01.html#what-is-urban-planning",
+    "title": "Lesson 1: Introduction to Geographic Information Systems for Urban Planning",
+    "section": "What is Urban Planning?",
+    "text": "What is Urban Planning?\n\n\nA political process concerned with the development and design of land use and the environment and the infrastructure passing into and out of urban areas.\nThe primary concern is the public welfare, which includes considerations of efficiency, sanitation, protection and use of the environment, as well as effects on social and economic activities.\nUrban planning is considered an interdisciplinary field that includes social engineering and design sciences."
+  },
+  {
+    "objectID": "lesson/Lesson01/lesson01.html#why-geographic-information-matters",
+    "href": "lesson/Lesson01/lesson01.html#why-geographic-information-matters",
+    "title": "Lesson 1: Introduction to Geographic Information Systems for Urban Planning",
+    "section": "Why Geographic Information Matters?",
+    "text": "Why Geographic Information Matters?\nAbout 80% of all data maintained by organizations around the world has a location component. (Source: BusinessWeek Research Services, 2006)"
+  },
+  {
+    "objectID": "lesson/Lesson01/lesson01.html#gis-fundamentals",
+    "href": "lesson/Lesson01/lesson01.html#gis-fundamentals",
+    "title": "Lesson 1: Introduction to Geographic Information Systems for Urban Planning",
+    "section": "GIS Fundamentals",
+    "text": "GIS Fundamentals\n\nIntroduction to GIS\nMajor component of a GIS\nGIS functions\nGIS toolkits"
+  },
+  {
+    "objectID": "lesson/Lesson01/lesson01.html#gis-platforms",
+    "href": "lesson/Lesson01/lesson01.html#gis-platforms",
+    "title": "Lesson 1: Introduction to Geographic Information Systems for Urban Planning",
+    "section": "GIS platforms",
+    "text": "GIS platforms"
+  },
+  {
+    "objectID": "lesson/Lesson01/lesson01.html#gis-users-in-singapore",
+    "href": "lesson/Lesson01/lesson01.html#gis-users-in-singapore",
+    "title": "Lesson 1: Introduction to Geographic Information Systems for Urban Planning",
+    "section": "GIS Users in Singapore",
+    "text": "GIS Users in Singapore"
+  },
+  {
+    "objectID": "lesson/Lesson01/lesson01.html#gis-supported-urban-planning-framework",
+    "href": "lesson/Lesson01/lesson01.html#gis-supported-urban-planning-framework",
+    "title": "Lesson 1: Introduction to Geographic Information Systems for Urban Planning",
+    "section": "GIS Supported Urban Planning Framework",
+    "text": "GIS Supported Urban Planning Framework"
+  },
+  {
+    "objectID": "lesson/Lesson01/lesson01.html#social-consciousness",
+    "href": "lesson/Lesson01/lesson01.html#social-consciousness",
+    "title": "Lesson 1: Introduction to Geographic Information Systems for Urban Planning",
+    "section": "Social Consciousness",
+    "text": "Social Consciousness"
+  },
+  {
+    "objectID": "lesson/Lesson01/lesson01.html#in-conclusion-gis-support",
+    "href": "lesson/Lesson01/lesson01.html#in-conclusion-gis-support",
+    "title": "Lesson 1: Introduction to Geographic Information Systems for Urban Planning",
+    "section": "In conclusion, GIS support",
+    "text": "In conclusion, GIS support\n\n\nBetter informed decision making\nBetter communication with management\nBetter communication between departments\nBetter problem solving\nMore efficient use of resources\n\n\nGIS = Get Intelligent Solutions"
   }
 ]
