@@ -985,5 +985,54 @@
     "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
     "section": "Reference",
     "text": "Reference\n\nBeyond Mapping I\nBeyond Mapping II - Spatial Reasoning\nBeyond Mapping III - Map Analysis\nBeyond Mapping IV – GIS Modeling"
+  },
+  {
+    "objectID": "lesson/Lesson07/lesson07.html#content",
+    "href": "lesson/Lesson07/lesson07.html#content",
+    "title": "Lesson 7: GIS-based Multi-Criteria Decision Analysis",
+    "section": "Content",
+    "text": "Content\n\nDescriptive model\nPrescriptive models\n\nBinary method\nRanking method\nRating method\n\nGIS‐Based Multiple‐Criteria Decision Analysis\nAnalytical Hierarchical Process (AHP)\nPredictive model"
+  },
+  {
+    "objectID": "lesson/Lesson07/lesson07.html#gis-based-descriptive-model",
+    "href": "lesson/Lesson07/lesson07.html#gis-based-descriptive-model",
+    "title": "Lesson 7: GIS-based Multi-Criteria Decision Analysis",
+    "section": "GIS-based Descriptive Model",
+    "text": "GIS-based Descriptive Model\n\nUsing GIS maps to describe the spatial distribution of real world phenomena."
+  },
+  {
+    "objectID": "lesson/Lesson07/lesson07.html#gis-based-prescriptive-model",
+    "href": "lesson/Lesson07/lesson07.html#gis-based-prescriptive-model",
+    "title": "Lesson 7: GIS-based Multi-Criteria Decision Analysis",
+    "section": "GIS-based Prescriptive Model",
+    "text": "GIS-based Prescriptive Model\n\nSuitability analysis in a GIS context is a geographic, or GIS-based process used to determine the appropriateness of a given area for a particular use.\nThe basic premise of GIS suitability analysis is that each aspect of the landscape has intrinsic characteristics that are to some degree either suitable or unsuitable for the activities being planned.\nThe results are often displayed on a map that is used to highlight areas from high to low suitability."
+  },
+  {
+    "objectID": "lesson/Lesson07/lesson07.html#multiplecriteria-decision-analysis-process",
+    "href": "lesson/Lesson07/lesson07.html#multiplecriteria-decision-analysis-process",
+    "title": "Lesson 7: GIS-based Multi-Criteria Decision Analysis",
+    "section": "Multiple‐Criteria Decision Analysis Process",
+    "text": "Multiple‐Criteria Decision Analysis Process"
+  },
+  {
+    "objectID": "lesson/Lesson07/lesson07.html#gisbased-multiplecriteria-decision-analysis",
+    "href": "lesson/Lesson07/lesson07.html#gisbased-multiplecriteria-decision-analysis",
+    "title": "Lesson 7: GIS-based Multi-Criteria Decision Analysis",
+    "section": "GIS‐Based Multiple‐Criteria Decision Analysis",
+    "text": "GIS‐Based Multiple‐Criteria Decision Analysis"
+  },
+  {
+    "objectID": "lesson/Lesson07/lesson07.html#analytical-hierarchical-process-ahp",
+    "href": "lesson/Lesson07/lesson07.html#analytical-hierarchical-process-ahp",
+    "title": "Lesson 7: GIS-based Multi-Criteria Decision Analysis",
+    "section": "Analytical Hierarchical Process (AHP)",
+    "text": "Analytical Hierarchical Process (AHP)\n\nA method for decision making in situations where multiple objectives are present.\nIt uses a pair-wise comparison matrix to calculate the relative value and costs of security requirements.\nBy using AHP, the requirements engineer can also confirm the consistency of the result.\nAHP can prevent subjective judgment errors and increase the likelihood that the results are reliable.\nTo learn more, click on this link."
+  },
+  {
+    "objectID": "lesson/Lesson07/lesson07.html#gis-based-predictive-model",
+    "href": "lesson/Lesson07/lesson07.html#gis-based-predictive-model",
+    "title": "Lesson 7: GIS-based Multi-Criteria Decision Analysis",
+    "section": "GIS-based Predictive Model",
+    "text": "GIS-based Predictive Model\n\nGeospatial hedonic pricing modelling"
   }
 ]
