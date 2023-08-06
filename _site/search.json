@@ -1111,5 +1111,47 @@
     "title": "Lesson 8: Fundamentals of Remote Sensing",
     "section": "Reference",
     "text": "Reference"
+  },
+  {
+    "objectID": "lesson/Lesson09/lesson09.html#content",
+    "href": "lesson/Lesson09/lesson09.html#content",
+    "title": "Lesson 9: Applied Image Analysis for the Urban Environment",
+    "section": "Content",
+    "text": "Content\n\nUrban Land Cover Classification\nUnsupervised Classification Methods\nSupervised Classification Process\nClassification Accuracy Metrics"
+  },
+  {
+    "objectID": "lesson/Lesson09/lesson09.html#urban-land-cover-classification-of-satellite-remote-sensing-imagery",
+    "href": "lesson/Lesson09/lesson09.html#urban-land-cover-classification-of-satellite-remote-sensing-imagery",
+    "title": "Lesson 9: Applied Image Analysis for the Urban Environment",
+    "section": "Urban Land Cover Classification of Satellite Remote Sensing Imagery",
+    "text": "Urban Land Cover Classification of Satellite Remote Sensing Imagery\n\n\nThe process of assigning a pixel (or groups of pixels) of remote sensing image to an urban land cover class.\n\nUnsupervised Classification in which the computer assigns pixels to categories with no instructions from the image analyst.\nSupervised Classification in which the image analyst provides training-site information that the computer uses to assign pixels to categories."
+  },
+  {
+    "objectID": "lesson/Lesson09/lesson09.html#unsupervised-classification",
+    "href": "lesson/Lesson09/lesson09.html#unsupervised-classification",
+    "title": "Lesson 9: Applied Image Analysis for the Urban Environment",
+    "section": "Unsupervised Classification",
+    "text": "Unsupervised Classification\n\n\n\nThe goal of unsupervised classification is to automatically segregate pixels of a remote sensing image into groups of similar spectral character.\nClassification is done using one of several statistical routines generally called “clustering” where classes of pixels are created based on their shared spectral signatures.\nClusters are split and /or merged until further clustering doesn’t improve the explanation of the variation in the scene."
+  },
+  {
+    "objectID": "lesson/Lesson09/lesson09.html#supervised-classification",
+    "href": "lesson/Lesson09/lesson09.html#supervised-classification",
+    "title": "Lesson 9: Applied Image Analysis for the Urban Environment",
+    "section": "Supervised Classification",
+    "text": "Supervised Classification\n\n\nSupervised training is closely controlled by the analyst. In this process, you select pixels that represent patterns or land cover features that you recognize, or that you can identify with help from other sources, such as aerial photos, ground truth data, or maps. Knowledge of the data, and of the classes desired, is required before classification.\nBy identifying patterns, you can instruct the computer system to identify pixels with similar characteristics. If the classification is accurate, the resulting classes represent the categories within the data that you originally identified."
+  },
+  {
+    "objectID": "lesson/Lesson09/lesson09.html#machine-learning-random-forest",
+    "href": "lesson/Lesson09/lesson09.html#machine-learning-random-forest",
+    "title": "Lesson 9: Applied Image Analysis for the Urban Environment",
+    "section": "Machine Learning: Random Forest",
+    "text": "Machine Learning: Random Forest\n\n\n\n\nThe Random Forest (RF) algorithm (Breimann 2001) is a supervised classification algorithm. It builds upon the concept of decision trees (DT).\nThe RF relies on many self-learning decision trees (i.e. “Forest”). The idea behind using many decision trees (i.e. an ensemble) is that many base learners can come to one strong and robust decision compared to a single DT.\nDifferent from the manual (expert-based) definition of decision rules, the RF uses self-learning decision trees. These trees automatically define rules at each node based on a training dataset.\nRF seeks to minimize the heterogeneity of the two resulting subsets of the data created by the respective rule. Heterogeneity is in this case expressed as the Gini impurity index and the rule creating the least heterogeneous subsets of the data is used for the respective node."
+  },
+  {
+    "objectID": "lesson/Lesson09/lesson09.html#reference",
+    "href": "lesson/Lesson09/lesson09.html#reference",
+    "title": "Lesson 9: Applied Image Analysis for the Urban Environment",
+    "section": "Reference",
+    "text": "Reference\n\nLand Cover & Land Use\nRichards and Jia (2006) Remote Sensing Digital Image Analysis: An Introduction, Springer."
   }
 ]
