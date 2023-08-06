@@ -915,5 +915,75 @@
     "title": "Lesson 4: Beyond MappingVector-based Geoprocessing and GIS Analysis",
     "section": "Reference",
     "text": "Reference\nJochen Albrecht (2007) Key Concepts and Techniques in GIS, Chapter 4-6. SAGE Publication. This book is available in smu library. Click on this link.\nJonathan Campbell and MIchael Shin (2011) Essentials of Geographic Information Systems, Saylor Foundation. Chapter 7: Geospatial Analysis I: Vector Operations."
+  },
+  {
+    "objectID": "lesson/Lesson06/lesson06.html#content",
+    "href": "lesson/Lesson06/lesson06.html#content",
+    "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
+    "section": "Content",
+    "text": "Content\n\nIntroduction to Raster GIS\n\nThe basic concept of raster GIS data model\nRaster database\nCharacteristics of raster\nRaster resolution\n\nMap Algebra Methods\n\nLocal functions\nFocal functions\nNeighbourhood functions\nZonal functions"
+  },
+  {
+    "objectID": "lesson/Lesson06/lesson06.html#raster-gis-data",
+    "href": "lesson/Lesson06/lesson06.html#raster-gis-data",
+    "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
+    "section": "Raster GIS Data",
+    "text": "Raster GIS Data\n\n\n\nAll raster formats are basically the same\n\nCells organized in a matrix of rows and columns\n\nContent is more important than format: data or picture?"
+  },
+  {
+    "objectID": "lesson/Lesson06/lesson06.html#map-algebra",
+    "href": "lesson/Lesson06/lesson06.html#map-algebra",
+    "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
+    "section": "Map Algebra",
+    "text": "Map Algebra\n\n\n\nMap algebra is a simple and an elegant set based algebra for manipulating geographic data, proposed by Dr. Dana Tomlin in the early 1980s.\nIt is a set of primitive operations in a GIS which allows one or more raster layers (“maps”) of similar dimensions to produce a new raster layer (map) using algebraic operations such as addition, subtraction etc."
+  },
+  {
+    "objectID": "lesson/Lesson06/lesson06.html#map-algebra-functions",
+    "href": "lesson/Lesson06/lesson06.html#map-algebra-functions",
+    "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
+    "section": "Map Algebra Functions",
+    "text": "Map Algebra Functions\n\nLocal function – characterising individual locations\nNeighbourhood function – characterising locations within neighbourhood\nZonal function – characterising location within a zone"
+  },
+  {
+    "objectID": "lesson/Lesson06/lesson06.html#neighbourhood-functions",
+    "href": "lesson/Lesson06/lesson06.html#neighbourhood-functions",
+    "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
+    "section": "Neighbourhood Functions",
+    "text": "Neighbourhood Functions\n\nThese are also called focal functions.\nLocal neighbourhood functions examine the target cell and immediate neighbours.\nA value is returned based on their combined evaluation.\nNeighbourhood scan be defined by rectangles, circles, wedges, doughnut shapes (annulus) etc."
+  },
+  {
+    "objectID": "lesson/Lesson06/lesson06.html#zonal-functions",
+    "href": "lesson/Lesson06/lesson06.html#zonal-functions",
+    "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
+    "section": "Zonal Functions",
+    "text": "Zonal Functions\n\n\n\nA zonal operation is employed on groups of cells of similar value or like features, not surprisingly called zones.\nThese zones could be conceptualized as raster versions of polygons. Zonal rasters are often created by reclassifying an input raster into just a few categories.\nZonal operations may be applied to a single raster or two overlaying rasters.\nGiven a single input raster, zonal operations measure the geometry of each zone in the raster, such as area, perimeter, thickness, and centroid."
+  },
+  {
+    "objectID": "lesson/Lesson06/lesson06.html#global-functions",
+    "href": "lesson/Lesson06/lesson06.html#global-functions",
+    "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
+    "section": "Global Functions",
+    "text": "Global Functions\n\n\n\nGlobal operations are similar to zonal operations whereby the entire raster dataset’s extent represents a single zone.\nTypical global operations include determining basic statistical values for the raster as a whole.\nFor example, the minimum, maximum, average, range, and so forth can be quickly calculated over the entire extent of the input raster and subsequently be output to a raster in which every cell contains that calculated value."
+  },
+  {
+    "objectID": "lesson/Lesson06/lesson06.html#distance-functions-euclidean-distance",
+    "href": "lesson/Lesson06/lesson06.html#distance-functions-euclidean-distance",
+    "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
+    "section": "Distance Functions: Euclidean Distance",
+    "text": "Distance Functions: Euclidean Distance\n\n\n\nThe Euclidean distance functions describe each cell’s relationship to a source or a set of sources.\nThe Euclidean distance output raster contains the measured distance from every cell to the nearest source."
+  },
+  {
+    "objectID": "lesson/Lesson06/lesson06.html#terrain-analysis",
+    "href": "lesson/Lesson06/lesson06.html#terrain-analysis",
+    "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
+    "section": "Terrain Analysis",
+    "text": "Terrain Analysis\n\nTerrain models\nSlope and Aspect\nHillshading\nTerrain Profile\nVisibility Analysis"
+  },
+  {
+    "objectID": "lesson/Lesson06/lesson06.html#reference",
+    "href": "lesson/Lesson06/lesson06.html#reference",
+    "title": "Lesson 6: The Science of MapthematicsRaster-based GIS Analysis Methods",
+    "section": "Reference",
+    "text": "Reference\n\nBeyond Mapping I\nBeyond Mapping II - Spatial Reasoning\nBeyond Mapping III - Map Analysis\nBeyond Mapping IV – GIS Modeling"
   }
 ]
