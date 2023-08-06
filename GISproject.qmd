@@ -18,19 +18,7 @@ The project is to be done in a team. You are required to form a project team of 
 
 You are required to choose one of the sub-theme provided below:
 
-Theme 1: Urban Application of Satellite Remote Sensing and GIS
-
--   Sub-theme 1: A comparison study of land cover classification by using Landsat 8 and Sentinel 2 data.
-
--   Sub-theme 2: Land cover change detection using high resolution multispectral satellite data.
-
--   Sub-theme 3: Land use classification by integrating GIS and remotely sensed data.
-
-Theme 2: Geography of Accessibility with GIS-based Network Analysis
-
--   Sub-theme 1: Impact of closures or mergers of education institutions on equity of access.
-
--   Sub-theme 2: Catchment areas study of the Thomson-East Coast MRT Line Stage 4.
+**To Be Confirmed!**
 
 ## Scope of Work
 
@@ -48,9 +36,9 @@ The project will comprise of, but not limited to the followings steps:
 -   Formulation of project team: by week 2 before lesson
 -   Assemble GIS data: from week 7 onward
 -   Create project website : by week 8
--   Submission of project poster: 10th Nov. 2022, 11:59PM (mid-night).
--   Townhall presentation: 14th Nov 2022 (Monday), at 12:00-2:00pm. Venue: LKSLIB Basement concourse. Students are required to be at the venue latest by 11:30am to setup your project poster.
--   Submission of project artifacts and update project webpage: 20th November 2022 at 11.59pm (mid-night)
+-   Submission of project poster: 8th Nov. 2023, 11:59PM (mid-night).
+-   Townhall presentation: 14th Nov 2023 (Tuesday), at 12:00-2:00pm. Venue: LKSLIB Basement concourse. Students are required to be at the venue latest by 11:30am to setup your project poster.
+-   Submission of project artifacts and update project webpage: 19th November 2023 at 11.59pm (mid-night)
 
 ## Grading
 
@@ -59,7 +47,8 @@ The GIS project will account for 35% of your final grade in the course. The dist
 -   Townhall presentation (peer evaluation) 15%
 -   Project poster 15%
 -   Project website and report 30%
--   Project artifact 40%
+-   Minutes of Meeting 10%
+-   Project artifact 30%
 
 The course instructor will consider strongly the novelty of the idea (If it has never been done before, you will get lots of credit!), how it addresses the problem at hand, the methodology you employ in doing the research, and your technical skill in implementing the idea.
 
@@ -67,7 +56,7 @@ In small group projects, each person will be graded individually. A good group p
 
 ## Townhall Poster Presentation
 
-A townhall presentation will be held on 14th November 2022 (Monday) between 11.30am - 2.30pm. The venue will be at SMU Basement Concourse.
+A townhall presentation will be held on 14th November 2023 (Tuesday) between 11.30am - 2.30pm. The venue will be at SMU Basement Concourse.
 
 ## Deliverables
 
@@ -150,7 +139,7 @@ The project report should focus on but not limited to the followings:
 
 #### Submission instruction
 
-The project artefact is due (submitted to LMS Dropbox) by the end of the day on 20th November 2022 at 11.59pm (mid-night).
+The project artefact is due (submitted to LMS Dropbox) by the end of the day on 19th November 2023 at 11.59pm (mid-night).
 
 ## Sample Projects
 
