@@ -810,5 +810,54 @@
     "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
     "section": "Sources of GIS data",
     "text": "Sources of GIS data\n\nField surveying Conventional land surveying GPS surveying\nDigitising\nRemote sensing Airborn Satellite Sensor (i.e. IoT)\nDigital data Internet map services Open Data.gov"
+  },
+  {
+    "objectID": "lesson/Lesson03/lesson03.html#what-will-you-learn-in-this-lesson",
+    "href": "lesson/Lesson03/lesson03.html#what-will-you-learn-in-this-lesson",
+    "title": "Lesson 3: Mapping and Visualising Urban World with GIS",
+    "section": "What will you learn in this lesson?",
+    "text": "What will you learn in this lesson?\n\nMaps and Urban Environments\nTypology of Maps\n\nReference maps\nThematic maps\n\nQualitative thematic mapping\nQuantitative thematic mapping\n\nNumber of classes\nData classification\nColour scheme"
+  },
+  {
+    "objectID": "lesson/Lesson03/lesson03.html#learning-objectives",
+    "href": "lesson/Lesson03/lesson03.html#learning-objectives",
+    "title": "Lesson 3: Mapping and Visualising Urban World with GIS",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nBy the end of this lesson, students will be able:\n\nto understand and explain the basic principles and methods of thematic mapping and cartographic design, and\nto use these understanding to design analytical maps to enlighten."
+  },
+  {
+    "objectID": "lesson/Lesson03/lesson03.html#visualising-urban-environments-in-a-map",
+    "href": "lesson/Lesson03/lesson03.html#visualising-urban-environments-in-a-map",
+    "title": "Lesson 3: Mapping and Visualising Urban World with GIS",
+    "section": "Visualising Urban Environments in a Map",
+    "text": "Visualising Urban Environments in a Map\nAn interface between geospatial data users and geospatial data.\n\nOld proverb: A picture is worth a thousand words\n\n\n\nNew proverb: A map is worth a thousand numbers, maybe more!\n\n\nA map is a model of our environments.\nA map represents geographical data. However, it is also an interface between map viewers and the"
+  },
+  {
+    "objectID": "lesson/Lesson03/lesson03.html#role-of-maps",
+    "href": "lesson/Lesson03/lesson03.html#role-of-maps",
+    "title": "Lesson 3: Mapping and Visualising Urban World with GIS",
+    "section": "Role of Maps",
+    "text": "Role of Maps\n\nRecord and store spatially referenced data\nServe as computational aids\nServe as aids to mobility\nSummarise complex, voluminous spatial data\nHelp us to explore spatial patterns\nHelp us to visualise large volume of spatial data\nServe as trigger devices to stimulate thought"
+  },
+  {
+    "objectID": "lesson/Lesson03/lesson03.html#typology-of-maps",
+    "href": "lesson/Lesson03/lesson03.html#typology-of-maps",
+    "title": "Lesson 3: Mapping and Visualising Urban World with GIS",
+    "section": "Typology of Maps",
+    "text": "Typology of Maps"
+  },
+  {
+    "objectID": "lesson/Lesson03/lesson03.html#thematic-mapping",
+    "href": "lesson/Lesson03/lesson03.html#thematic-mapping",
+    "title": "Lesson 3: Mapping and Visualising Urban World with GIS",
+    "section": "Thematic Mapping",
+    "text": "Thematic Mapping\n\n\nQualitative Thematic Map\n\n\n\n\n\n\nQuantitative Thematic Map"
+  },
+  {
+    "objectID": "lesson/Lesson03/lesson03.html#reference",
+    "href": "lesson/Lesson03/lesson03.html#reference",
+    "title": "Lesson 3: Mapping and Visualising Urban World with GIS",
+    "section": "Reference",
+    "text": "Reference\nProportional Symbols\nChoropleth Maps\nDot Density Maps\nThe Basics of Data Classification\nShould a map be interactive?\nMap interaction"
   }
 ]
