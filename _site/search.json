@@ -1286,5 +1286,47 @@
     "title": "Lesson 10: Urban Network Analysis with GIS",
     "section": "QGIS Network Analysis Support",
     "text": "QGIS Network Analysis Support\n\n\n\nBuild in\n\n\n\n\nPlug-in\n\n\nFor more detail, visit this link"
+  },
+  {
+    "objectID": "lesson/Lesson12/lesson12.html#content",
+    "href": "lesson/Lesson12/lesson12.html#content",
+    "title": "Lesson 12: Sharing Geographical Information with WebGIS",
+    "section": "Content",
+    "text": "Content\n\nMotivation of GeoWeb Mapping\nHistory of GeoWeb Mapping\nFundamental of GeoWeb Mapping\nGeoWeb Mapping Protocols\nGeoWeb Mapping software\nGeoWeb Mapping 2.0"
+  },
+  {
+    "objectID": "lesson/Lesson12/lesson12.html#motivation-sharing-geographic-information",
+    "href": "lesson/Lesson12/lesson12.html#motivation-sharing-geographic-information",
+    "title": "Lesson 12: Sharing Geographical Information with WebGIS",
+    "section": "Motivation: Sharing geographic information",
+    "text": "Motivation: Sharing geographic information\n\n\n\nThree possible ways to share geographic data.\nWeb GIS allows data to be shared over the Web"
+  },
+  {
+    "objectID": "lesson/Lesson12/lesson12.html#how-a-geoweb-mapping-service-works",
+    "href": "lesson/Lesson12/lesson12.html#how-a-geoweb-mapping-service-works",
+    "title": "Lesson 12: Sharing Geographical Information with WebGIS",
+    "section": "How A GeoWeb Mapping Service Works",
+    "text": "How A GeoWeb Mapping Service Works\n\nClient-server architecture"
+  },
+  {
+    "objectID": "lesson/Lesson12/lesson12.html#geoweb-mapping-protocols",
+    "href": "lesson/Lesson12/lesson12.html#geoweb-mapping-protocols",
+    "title": "Lesson 12: Sharing Geographical Information with WebGIS",
+    "section": "GeoWeb Mapping Protocols",
+    "text": "GeoWeb Mapping Protocols\n\nWeb Map Service (WMS)\nWeb Feature Service (WFS)\nExtensible Markup Language (XML)\nGeography Markup Language (GML)\nKeyhole Markup Language (KML)"
+  },
+  {
+    "objectID": "lesson/Lesson12/lesson12.html#geospatial-server-software",
+    "href": "lesson/Lesson12/lesson12.html#geospatial-server-software",
+    "title": "Lesson 12: Sharing Geographical Information with WebGIS",
+    "section": "Geospatial Server Software",
+    "text": "Geospatial Server Software\n\n\nCommercial off-the-shelf (COS) \n\nOpen Source"
+  },
+  {
+    "objectID": "lesson/Lesson12/lesson12.html#geoweb-mapping-evolution",
+    "href": "lesson/Lesson12/lesson12.html#geoweb-mapping-evolution",
+    "title": "Lesson 12: Sharing Geographical Information with WebGIS",
+    "section": "GeoWeb Mapping evolution",
+    "text": "GeoWeb Mapping evolution\n\nImpact of Rich Internet Application (RIA)"
   }
 ]
