@@ -859,5 +859,61 @@
     "title": "Lesson 3: Mapping and Visualising Urban World with GIS",
     "section": "Reference",
     "text": "Reference\nProportional Symbols\nChoropleth Maps\nDot Density Maps\nThe Basics of Data Classification\nShould a map be interactive?\nMap interaction"
+  },
+  {
+    "objectID": "lesson/Lesson04/lesson04.html#content",
+    "href": "lesson/Lesson04/lesson04.html#content",
+    "title": "Lesson 4: Beyond MappingVector-based Geoprocessing and GIS Analysis",
+    "section": "Content",
+    "text": "Content\n\nIdentifying and Measurment\nSpatial Query\nGeoprocessing Techniques\n\nCLIP, DISSOLVE, APPEND, SPLIT, and ERASE\n\nProximity Analysis\n\nBuffering\nThiessen Polygon\n\nTopological Overlaying"
+  },
+  {
+    "objectID": "lesson/Lesson04/lesson04.html#what-will-you-learn-from-this-course",
+    "href": "lesson/Lesson04/lesson04.html#what-will-you-learn-from-this-course",
+    "title": "Lesson 4: Beyond MappingVector-based Geoprocessing and GIS Analysis",
+    "section": "What will you learn from this course?",
+    "text": "What will you learn from this course?\n\nIdentify or measure geographic data\nSearch geographical features by attributes\nTransform GIS data using geoprocessing tools such as clip, dissolve, and merge\nAnswer location related questions using vector-based GIS analysis functions such as spatial query, buffering, topology overlay, and spatial overlay\nPerform specialised spatial analysis using mathematical algorithms such as centroid, convex hull, voronoi, and districting."
+  },
+  {
+    "objectID": "lesson/Lesson04/lesson04.html#gis-analysis-or-the-end-of-mathematics",
+    "href": "lesson/Lesson04/lesson04.html#gis-analysis-or-the-end-of-mathematics",
+    "title": "Lesson 4: Beyond MappingVector-based Geoprocessing and GIS Analysis",
+    "section": "GIS Analysis or the end of Mathematics?",
+    "text": "GIS Analysis or the end of Mathematics?\n\n\n\nIdentifying & Measuring\nSelection\nGeoprocessing\nBuffering\nOverlay"
+  },
+  {
+    "objectID": "lesson/Lesson04/lesson04.html#gis-analysis-or-the-end-of-mathematics-1",
+    "href": "lesson/Lesson04/lesson04.html#gis-analysis-or-the-end-of-mathematics-1",
+    "title": "Lesson 4: Beyond MappingVector-based Geoprocessing and GIS Analysis",
+    "section": "GIS Analysis or the end of Mathematics?",
+    "text": "GIS Analysis or the end of Mathematics?\n\n\n\nIdentifying & Measuring\nSelection\nGeoprocessing\nBuffering\nOverlay"
+  },
+  {
+    "objectID": "lesson/Lesson04/lesson04.html#geoprocessing-functions",
+    "href": "lesson/Lesson04/lesson04.html#geoprocessing-functions",
+    "title": "Lesson 4: Beyond MappingVector-based Geoprocessing and GIS Analysis",
+    "section": "Geoprocessing Functions",
+    "text": "Geoprocessing Functions\nA collection of GIS functions for transforming the geometrics of GIS data\n\nCLIP\nDISSOLVE\nAPPEND\nSPLIT\nERASE etc"
+  },
+  {
+    "objectID": "lesson/Lesson04/lesson04.html#proximity-analysis-finding-whats-nearby",
+    "href": "lesson/Lesson04/lesson04.html#proximity-analysis-finding-whats-nearby",
+    "title": "Lesson 4: Beyond MappingVector-based Geoprocessing and GIS Analysis",
+    "section": "Proximity Analysis: Finding what’s nearby",
+    "text": "Proximity Analysis: Finding what’s nearby\n\n\n\nOne of the most powerful operations of a GIS.\nMany important questions hinge on proximity, the distance between features of interest.\n\nHow closed are secondary schools to alcohol and tobacco stores?\nWhat neighbourhood are far from NTUC Fairprice?\nWhich buildings will be affected by the construction of Thomson-East Coast Line?\n\n\n\n\nBased on the concept of proximity, buffering creates two areas: one area that is within a specified distance of selected features and the other area that is beyond.\nThe area that is within the specified distance is called buffer zone.\nFeatures for buffering may be points, lines, or areas."
+  },
+  {
+    "objectID": "lesson/Lesson04/lesson04.html#gis-analysis-or-the-end-of-mathematics-2",
+    "href": "lesson/Lesson04/lesson04.html#gis-analysis-or-the-end-of-mathematics-2",
+    "title": "Lesson 4: Beyond MappingVector-based Geoprocessing and GIS Analysis",
+    "section": "GIS Analysis or the end of Mathematics?",
+    "text": "GIS Analysis or the end of Mathematics?\n\n\n\nIdentifying & Measuring\nSelection\nGeoprocessing\nBuffering\nOverlay"
+  },
+  {
+    "objectID": "lesson/Lesson04/lesson04.html#reference",
+    "href": "lesson/Lesson04/lesson04.html#reference",
+    "title": "Lesson 4: Beyond MappingVector-based Geoprocessing and GIS Analysis",
+    "section": "Reference",
+    "text": "Reference\nJochen Albrecht (2007) Key Concepts and Techniques in GIS, Chapter 4-6. SAGE Publication. This book is available in smu library. Click on this link.\nJonathan Campbell and MIchael Shin (2011) Essentials of Geographic Information Systems, Saylor Foundation. Chapter 7: Geospatial Analysis I: Vector Operations."
   }
 ]
