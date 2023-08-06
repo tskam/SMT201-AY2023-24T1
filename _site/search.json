@@ -1034,5 +1034,82 @@
     "title": "Lesson 7: GIS-based Multi-Criteria Decision Analysis",
     "section": "GIS-based Predictive Model",
     "text": "GIS-based Predictive Model\n\nGeospatial hedonic pricing modelling"
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#content",
+    "href": "lesson/Lesson08/lesson08.html#content",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Content",
+    "text": "Content\n\nPrinciples of Remote Sensing\n\nA historical overview\n\nPhysical Principles of Remote Sensing\nBasic principles of remotely sensed data\n\nSpectral resolution\nSpatial resolution\n\nRemotely Sensed Data Sources\nUrban Applications of Remotely Sensed Data\nDigital Image Analysis Methods image\n\nprocessing techniques"
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#principles-of-remote-sensing",
+    "href": "lesson/Lesson08/lesson08.html#principles-of-remote-sensing",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Principles of Remote Sensing",
+    "text": "Principles of Remote Sensing\n\n\n\nRemote sensing refers to the activities of recording, observing, and perceiving (sensing) objects or events in far-away (remote) places.\nIn remote sensing, the sensors are not in direct contact with the objects or events being observed.\nElectromagnetic radiation normally is used as the information carrier in remote sensing.\nThe output of a remote sensing system is usually an image representing the scene being observed.\nA further step of image analysis and interpretation is required to extract useful information from the image."
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#physical-principles-of-remote-sensing",
+    "href": "lesson/Lesson08/lesson08.html#physical-principles-of-remote-sensing",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Physical Principles of Remote Sensing",
+    "text": "Physical Principles of Remote Sensing\nElectromagnetic Radiation\n\n\nElectromagnetic spectrum is a system, which “classifies all energy by wavelengths (from short wavelength cosmic energy to long wavelength radio waves) that travel harmonically with constant speed of light” (NASA, 2013)."
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#popular-remotely-sensed-data-landsat",
+    "href": "lesson/Lesson08/lesson08.html#popular-remotely-sensed-data-landsat",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Popular Remotely Sensed Data: Landsat",
+    "text": "Popular Remotely Sensed Data: Landsat\n\nThe Landsat program is the longest-running enterprise for the acquisition of satellite imagery of the Earth.\nThe first satellite within the program was launched in 1972, the most recent one, Landsat 8, on February 11, 2013."
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#popular-remotely-sensed-data-sentinel",
+    "href": "lesson/Lesson08/lesson08.html#popular-remotely-sensed-data-sentinel",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Popular Remotely Sensed Data: Sentinel",
+    "text": "Popular Remotely Sensed Data: Sentinel\nSentinel is the Copernicus Programme satellite constellation conducted by the European Space Agency. The Sentinel missions have the following objectives:\n\nSentinel‑1 provides all-weather, day and night radar imaging. The first Sentinel‑1A satellite was successfully launched in 2014, and the second, Sentinel‑1B, in two years — on 25 April 2016.\nSentinel‑2 provides high-resolution optical imaging for land services (e. g. imagery of vegetation, soil and water cover, inland waterways and coastal areas). Sentinel‑2 also provides real-time information for emergency services. The first Sentinel‑2 satellite was successfully launched on 23 June 2015.\nSentinel‑3 provides ocean and global land monitoring services. The first Sentinel‑3A satellite was launched on 16 January 2016.\nSentinel‑4 will be launched in 2023. It is intended to provide data for monitoring of atmospheric composition and operate jointly with a Meteosat Third Generation Satellite."
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#fundamentals-of-image-processing",
+    "href": "lesson/Lesson08/lesson08.html#fundamentals-of-image-processing",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Fundamentals of Image Processing",
+    "text": "Fundamentals of Image Processing\n\nImage Enhancement\nBand Combinations, Ratios and Indices\nColour Composite Images"
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#image-enhancement",
+    "href": "lesson/Lesson08/lesson08.html#image-enhancement",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Image enhancement",
+    "text": "Image enhancement\n\nEnhancements are used to make it easier for visual interpretation and understanding of imagery. The advantage of digital imagery is that it allows us to manipulate the digital pixel values in an image.\nCommon practices include\n\ncontrast enhancement,\nspatial filtering and\ndensity slicing."
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#spatial-filtering",
+    "href": "lesson/Lesson08/lesson08.html#spatial-filtering",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Spatial Filtering",
+    "text": "Spatial Filtering\n\nSpatial filtering encompasses another set of digital processing functions which are used to enhance the appearance of an image.\nSpatial filters are designed to highlight or suppress specific features in an image based on their spatial frequency.\nSpatial frequency is related to the concept of image texture,\nA common filtering procedure involves moving a ‘window’ of a few pixels in dimension (e.g. 3x3, 5x5, etc.) over each pixel in the image, applying a mathematical calculation using the pixel values under that window, and replacing the central pixel with the new value."
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#band-combinations-ratios-and-indices",
+    "href": "lesson/Lesson08/lesson08.html#band-combinations-ratios-and-indices",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Band Combinations, Ratios and Indices",
+    "text": "Band Combinations, Ratios and Indices\n\nNormalized Difference Vegetation Index (NDVI)\nNormalized Difference Built-up Index (NDBI)"
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#colour-composite-images",
+    "href": "lesson/Lesson08/lesson08.html#colour-composite-images",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Colour Composite Images",
+    "text": "Colour Composite Images\n\n\nIn displaying a colour composite image, three primary colours (red, green and blue) are used. When these three colours are combined in various proportions, they produce different colours in the visible spectrum. Associating each spectral band (not necessarily a visible band) to a separate primary colour results in a colour composite image."
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#reference",
+    "href": "lesson/Lesson08/lesson08.html#reference",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Reference",
+    "text": "Reference"
   }
 ]
