@@ -740,5 +740,75 @@
     "title": "Lesson 12: Sharing Geographic Information on the Web: GeoWeb Mapping",
     "section": "",
     "text": "In this lesson, you will learn the basic concepts of GeoWeb Mapping. You will also gain hands-on experience on creating geoweb application using QGIS extension."
+  },
+  {
+    "objectID": "lesson/Lesson02/lesson02.html#what-will-you-learn-from-this-course",
+    "href": "lesson/Lesson02/lesson02.html#what-will-you-learn-from-this-course",
+    "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
+    "section": "What will you learn from this course?",
+    "text": "What will you learn from this course?\n\nGetting to Know GIS Data Models\n\nVector Data Model\nRaster Data Model\n\nGeoreferencing\n\nGeographic Coordinate Systems\nProjected Coordinate Systems\n\nGeocoding\n\nHeoHash\n\nSources of GIS data\n\n\nIn this lesson, I will talk about GIS data models. The discussion consists of three main sections. First, I will share the basic principles of geographic phenomena. This is follow by a discussion of GIS data models. In this lesson, we will mainly focus on vector and raster data models. This is followed by explaining two important concepts of geospatial data, namely: georeferencing and geocoding. Lastly, I will share with you how and where we can find geospatial data."
+  },
+  {
+    "objectID": "lesson/Lesson02/lesson02.html#getting-to-know-gis-data-models",
+    "href": "lesson/Lesson02/lesson02.html#getting-to-know-gis-data-models",
+    "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
+    "section": "Getting to Know GIS Data Models",
+    "text": "Getting to Know GIS Data Models\n\nBasic concept of geographical data\nBasic GIS data models\nVector data models\n\nSpaghetti data models\nTopological data models\n\nRaster data models"
+  },
+  {
+    "objectID": "lesson/Lesson02/lesson02.html#discrete-objects-and-continuous-fields",
+    "href": "lesson/Lesson02/lesson02.html#discrete-objects-and-continuous-fields",
+    "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
+    "section": "Discrete Objects and Continuous Fields",
+    "text": "Discrete Objects and Continuous Fields\n\nTwo ways of conceptualizing geographic variation\n\nThe most fundamental distinction in geographic representation\n\nDiscrete objects\n\nThe world as a table-top\nObjects with well-defined boundaries"
+  },
+  {
+    "objectID": "lesson/Lesson02/lesson02.html#basic-gis-data-models",
+    "href": "lesson/Lesson02/lesson02.html#basic-gis-data-models",
+    "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
+    "section": "Basic GIS Data Models",
+    "text": "Basic GIS Data Models\n\nVector, implementation of discrete object conceptual model\n\nPoint, line and polygon representations\nWidely used in cartography, and network analysis\n\nRaster, implementation of field conceptual model\n\nArray of cells used to represent objects\nUseful as background maps and for spatial analysis"
+  },
+  {
+    "objectID": "lesson/Lesson02/lesson02.html#vector-data-models",
+    "href": "lesson/Lesson02/lesson02.html#vector-data-models",
+    "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
+    "section": "Vector Data Models",
+    "text": "Vector Data Models\n\n\n\nUsed to represent points, lines, and areas\nAll are represented using coordinates\n\nOne per point\n\nLines as polylines\n\nStraight lines between points\n\nAreas as polygons\n\nStraight lines between points, connecting back to the start\nPoint locations recorded as coordinates"
+  },
+  {
+    "objectID": "lesson/Lesson02/lesson02.html#raster-data-model",
+    "href": "lesson/Lesson02/lesson02.html#raster-data-model",
+    "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
+    "section": "Raster Data Model",
+    "text": "Raster Data Model\n\n\n\nDivide the world into square cells\nRegister the corners to the Earth\nRepresent discrete objects as collections of one or more cells\nRepresent fields by assigning attribute values to cells\nMore commonly used to represent fields than discrete objects\n\nWhat is raster data?, ESRI. A good read to learn the basic of raster data."
+  },
+  {
+    "objectID": "lesson/Lesson02/lesson02.html#unique-properties-of-gis-data",
+    "href": "lesson/Lesson02/lesson02.html#unique-properties-of-gis-data",
+    "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
+    "section": "Unique Properties of GIS Data",
+    "text": "Unique Properties of GIS Data\n\nGeographical reference\nCartographic generalisation\nGIS data accuracy and uncertainty"
+  },
+  {
+    "objectID": "lesson/Lesson02/lesson02.html#coordinate-systems-and-map-projections",
+    "href": "lesson/Lesson02/lesson02.html#coordinate-systems-and-map-projections",
+    "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
+    "section": "Coordinate Systems and Map Projections",
+    "text": "Coordinate Systems and Map Projections"
+  },
+  {
+    "objectID": "lesson/Lesson02/lesson02.html#what-is-geocoding",
+    "href": "lesson/Lesson02/lesson02.html#what-is-geocoding",
+    "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
+    "section": "What is geocoding",
+    "text": "What is geocoding\nReference data: features with address attributes points, lines, polygons.\n\nReference: Geocoding"
+  },
+  {
+    "objectID": "lesson/Lesson02/lesson02.html#sources-of-gis-data",
+    "href": "lesson/Lesson02/lesson02.html#sources-of-gis-data",
+    "title": "Lesson 2: The Devil is in the Data: Collection, representation, and modelling",
+    "section": "Sources of GIS data",
+    "text": "Sources of GIS data\n\nField surveying Conventional land surveying GPS surveying\nDigitising\nRemote sensing Airborn Satellite Sensor (i.e. IoT)\nDigital data Internet map services Open Data.gov"
   }
 ]
