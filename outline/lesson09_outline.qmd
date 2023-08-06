@@ -24,7 +24,7 @@ In this lesson, you will learn how to applied digital image analysis for urban p
 
 ## Lesson Slides and Hands-on Notes
 
--   Lesson slides in [html](../lesson/Lesson10/Lesson10.html) format.
+-   Lesson slides in [html](../lesson/Lesson09/Lesson09.html) format.
 
 -   Hands-on Exercise 9 in [html](https://qgis4rdpa.netlify.app/hands-on_04) format.
 

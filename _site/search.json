@@ -1153,5 +1153,75 @@
     "title": "Lesson 9: Applied Image Analysis for the Urban Environment",
     "section": "Reference",
     "text": "Reference\n\nLand Cover & Land Use\nRichards and Jia (2006) Remote Sensing Digital Image Analysis: An Introduction, Springer."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson09.html",
+    "href": "lesson/Lesson11/lesson09.html",
+    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "",
+    "text": "Why analyse with network?\nNetwork model\nReal world network system\nComplexity of urban road network\nShortest path analysis algorithm\nNetwork analysis methods"
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson09.html#content",
+    "href": "lesson/Lesson11/lesson09.html#content",
+    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "",
+    "text": "Why analyse with network?\nNetwork model\nReal world network system\nComplexity of urban road network\nShortest path analysis algorithm\nNetwork analysis methods"
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson09.html#location-question",
+    "href": "lesson/Lesson11/lesson09.html#location-question",
+    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "Location question",
+    "text": "Location question\n\nHow to assign the eldercare centres to the closest polyclinic?\n\n\n\n\nGIS answer\n\nUsing buffer analysis\n\n\n\n\n\n\n\n\n\nGIS answer\n\nUsing desire line analysis (mmqgis plugin is needed).\n\n\n\n\n\nLimitation of the GIS answers\n\nFailed to consider the actual road network."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson09.html#a-network-model",
+    "href": "lesson/Lesson11/lesson09.html#a-network-model",
+    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "A Network Model",
+    "text": "A Network Model\n\nA link refers to a linear segment defined by two end points. Also called edges.\nA node refers to an end point of a link.\n\n\n\n\nTwo types of networks\n\n\n\nGeometric\nDirected flow, away from sources and toward sinks\nResources make no travel decisions\nTopologic\nUndirected flow\nResources make their own travel decisions\n\n\n\n\n\n\n\n\nA Transportation Network\nThis network theme represents city streets and highways. Several theme attributes, such as speed limits, the number of lanes a street has, or which streets are one-way or two-way, can affect the flow of goods and services through a network.\n\n\n\n\nAn Utility Network\nUtilities can also be network themes. In this example, the diameter of the waterlines, the system’s water pressure, and the location of control valves can affect the flow of the water through the network.\n\n\n\n\nA River Network\nRiver systems can be represented as a network or a series of networks. Some systems may not connect while other systems may connect naturally or may be connected by canals. The location of locks, river width, river depth, and current can affect the analysis.\n\n\n\n\nA simple transport network model\n\n\n\n\nComplexity of Urban Network Topology\nBeyond nodes and edges, there are more…..\n\n\n\n\nMultilane Expressway\n\n\n\n\nMultilane Major Road\n\n\n\n\nTwo-way Road\n\n\n\n\nOne-way Road\n\n\n\n\nTunnel\n\n\n\n\nA Tale of Two Roads\n\n\n\n\nRoad facilities slow down traffic\nRoad sign and traffic light inform about restrictions and rules.\n\n\n\n\nRoad facilities slow down traffic\n\n\n\n\nRoad conditions are dynamic"
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson09.html#poor-man-network-data-source",
+    "href": "lesson/Lesson11/lesson09.html#poor-man-network-data-source",
+    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "Poor man network data source",
+    "text": "Poor man network data source\nBulk extract at Geofabrik free download server."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson09.html#shortest-path-analysis",
+    "href": "lesson/Lesson11/lesson09.html#shortest-path-analysis",
+    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "Shortest Path Analysis",
+    "text": "Shortest Path Analysis\nShortest path analysis finds the path with the minimum cumulative impedance between nodes on a network. The path may connect just two nodes an origin and a destination or have specific stops between the nodes.\n\n\n\n\n\n\n\nDijkstra’s Shortest Path Algorithm\n\nThe path that will be calculated depends on which other nodes must be visited and in what order.\n\n\n\n\n\nDijkstra’s Shortest Path Algorithm\n\nA network consisting of seven nodes and 10 lines.\n\n\n\n\n\nDijkstra’s Shortest Path Algorithm\n\nNodes adjacent to the origin node are in red.\n\n\n\n\n\nDijkstra’s Shortest Path Algorithm\n\nBecause the line between nodes a and b has the lowest cost (8), node b becomes a reached node.\n\n\n\n\n\nDijkstra’s Shortest Path Algorithm\n\nAfter calculating a reached node, the algorithm continues to scan adjacent nodes.\n\n\n\n\n\nDijkstra’s Shortest Path Algorithm\n\nThe least cost path now travels from node a to node b to node f.\n\n\n\n\n\nDijkstra’s Shortest Path Algorithm\n\nThe cost of going from node a to node c to node e is 15, while the cost of going from node a to node d to node e is 16. The algorithm will choose the former, least cost, path.\n\n\n\n\n\nDijkstra’s Shortest Path Algorithm\n\nAll nodes have now been reached.\n\n\n\n\n\n\n\n\n\nDijkstra’s Shortest Path Algorithm\n\nThe least cost path from node a to node g."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson09.html#fastest-path",
+    "href": "lesson/Lesson11/lesson09.html#fastest-path",
+    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "Fastest Path",
+    "text": "Fastest Path\n\nFastest paths are based on time and you can use any measure of time you choose (seconds, minutes, hours, etc.)."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson09.html#travelling-salesman-problem",
+    "href": "lesson/Lesson11/lesson09.html#travelling-salesman-problem",
+    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "Travelling salesman problem",
+    "text": "Travelling salesman problem\n\nA route can visit many stops in a network. The origin can also be the destination, as the warehouse is in this example delivery route."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson09.html#beyond-network-model",
+    "href": "lesson/Lesson11/lesson09.html#beyond-network-model",
+    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "Beyond network model",
+    "text": "Beyond network model\nAccessibility modelling.\n\nSource: https://developers.route360.net/index.html\n\n\nNetwork Drive Time: Accessibility\n\n\n\nIf you know what is near a site, you can make better decisions about how suitable the site is for your business needs.\n\n\n\n\n\n\n\n\nNetwork Service Areas\n\n\n\n\n\n\n\n\n\n\nFacility location – network model\n\nGiven a set of clients, finds the facility location that minimises that path length to travel between the facility to each of the clients.\n\n\n\n\n\nFacility location – planar model\n\nGiven a set of clients, finds the facility location that minimises that path length to travel between the facility to each of the clients."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson09.html#qgis-network-analysis-support",
+    "href": "lesson/Lesson11/lesson09.html#qgis-network-analysis-support",
+    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "QGIS Network Analysis Support",
+    "text": "QGIS Network Analysis Support\n\n\n\nBuild in\n\n\n\n\nPlug-in\n\n\nFor more detail, visit this link"
   }
 ]

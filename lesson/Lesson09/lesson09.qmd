@@ -2,11 +2,15 @@
 title: "Lesson 9: Applied Image Analysis for the Urban Environment"
 author: "Dr. Kam Tin Seong<br/>Assoc. Professor of Information Systems"
 institute: "School of Computing and Information Systems,<br/>Singapore Management University"
-date: "2022-08-12 (updated: `r Sys.Date()`)"
+date: "last-modified"
+date-modified: "last-modified" 
 format: 
   revealjs:
     width: 1600
     height: 900
+    show-notes: false
+    slide-number: true
+    show-slide-number: 'all'
 editor: visual
 ---
 
