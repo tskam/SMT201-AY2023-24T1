@@ -16,5 +16,47 @@
   },
   "lesson/Lesson01/lesson01.qmd": {
     "lesson01.html": "15e8be7d"
+  },
+  "outline/lesson01_outline.qmd": {
+    "lesson01_outline.html": "6e927816"
+  },
+  "outline/lesson02sup_outline.qmd": {
+    "lesson02sup_outline.html": "6cb85160"
+  },
+  "outline/lesson02_outline.qmd": {
+    "lesson02_outline.html": "9ac763b8"
+  },
+  "outline/lesson03_outline.qmd": {
+    "lesson03_outline.html": "caceda53"
+  },
+  "outline/lesson04_outline.qmd": {
+    "lesson04_outline.html": "2afa0c22"
+  },
+  "outline/lesson05_outline.qmd": {
+    "lesson05_outline.html": "5620be60"
+  },
+  "outline/lesson06_outline.qmd": {
+    "lesson06_outline.html": "15555179"
+  },
+  "outline/lesson07sup_outline.qmd": {
+    "lesson07sup_outline.html": "827b4afd"
+  },
+  "outline/lesson07_outline.qmd": {
+    "lesson07_outline.html": "43a891f8"
+  },
+  "outline/lesson08_outline.qmd": {
+    "lesson08_outline.html": "1e4d9bf7"
+  },
+  "outline/lesson09_outline.qmd": {
+    "lesson09_outline.html": "12654c16"
+  },
+  "outline/lesson10_outline.qmd": {
+    "lesson10_outline.html": "c7aa89f4"
+  },
+  "outline/lesson11_outline.qmd": {
+    "lesson11_outline.html": "ad3ea2f5"
+  },
+  "outline/lesson12_outline.qmd": {
+    "lesson12_outline.html": "b0bb1d4c"
   }
 }

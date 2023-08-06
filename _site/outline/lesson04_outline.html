@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2023-08-06">
 
-<title>SMT201-AY2023-24T1 - Weekly Lesson Plan</title>
+<title>SMT201-AY2023-24T1 - Lesson 4: Vector-based GIS Analysis Methods</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +24,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -61,7 +62,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -71,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">SMT201-AY2023-24T1</span>
     </a>
   </div>
@@ -82,11 +83,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./syllabus.html" rel="" target="">
+    <a class="nav-link" href="../syllabus.html" rel="" target="">
  <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./lesson.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../lesson.html" rel="" target="">
  <span class="menu-text">Lesson Plan</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -95,27 +96,27 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-take-home-exercise">    
         <li>
-    <a class="dropdown-item" href="./Take-home_Ex01.html" rel="" target="">
+    <a class="dropdown-item" href="../Take-home_Ex01.html" rel="" target="">
  <span class="dropdown-text">Take-home Exercise 1</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./Take-home_Ex02.html" rel="" target="">
+    <a class="dropdown-item" href="../Take-home_Ex02.html" rel="" target="">
  <span class="dropdown-text">Take-home Exercise 2</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./Take-home_Ex03.html" rel="" target="">
+    <a class="dropdown-item" href="../Take-home_Ex03.html" rel="" target="">
  <span class="dropdown-text">Take-home Exercise 3</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./GISproject.html" rel="" target="">
+    <a class="nav-link" href="../GISproject.html" rel="" target="">
  <span class="menu-text">GIS Project</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
 </ul>
@@ -130,14 +131,27 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#content" id="toc-content" class="nav-link" data-scroll-target="#content">Content</a></li>
+  <li><a href="#lesson-slides-and-hands-on-notes" id="toc-lesson-slides-and-hands-on-notes" class="nav-link" data-scroll-target="#lesson-slides-and-hands-on-notes">Lesson Slides and Hands-on Notes</a></li>
+  <li><a href="#readings" id="toc-readings" class="nav-link" data-scroll-target="#readings">Readings</a>
+  <ul class="collapse">
+  <li><a href="#core-readings" id="toc-core-readings" class="nav-link" data-scroll-target="#core-readings">Core readings</a></li>
+  </ul></li>
+  <li><a href="#qgis-methods" id="toc-qgis-methods" class="nav-link" data-scroll-target="#qgis-methods">QGIS Methods</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Weekly Lesson Plan</h1>
+<h1 class="title">Lesson 4: Vector-based GIS Analysis Methods</h1>
 </div>
 
 
@@ -145,111 +159,86 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">August 6, 2023</p>
+    </div>
+  </div>
   
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">August 6, 2023</p>
+    </div>
+  </div>
     
   </div>
   
 
 </header>
 
-<table class="table">
-<thead>
-<tr class="header">
-<th>Week</th>
-<th>Date</th>
-<th>Topic</th>
-<th>Remarks</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>14/8/2023</td>
-<td><a href="outline/lesson01_outline.html">Lesson 1: Introduction to GIS for Urban Planning</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>21/8/2023</td>
-<td><a href="outline/lesson02_outline.html">Lesson 2: The Evil is in The Data</a></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>28/8/2023</td>
-<td><a href="outline/lesson03_outline.html">Lesson 3: Mapping and Visualising Urban World with GIS</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>4/9/2023</td>
-<td><a href="outline/lesson04_outline.html">Lesson 4: Vector-based GeoProcessing and GIS Analysis</a></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>11/9/2023</td>
-<td><a href="outline/lesson05_outline.html">Lesson 5: Urban Applications of Vector-based GIS Analysis</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>18/9/2023</td>
-<td><a href="outline/lesson06_outline.html">Lesson 6: The Science of Mapthematics</a></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>25/9/2023</td>
-<td><a href="outline/lesson07_outline.html">Lesson 7: GIS-based Multi-Criteria Decision Analysis</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>8</td>
-<td>2/10/2023</td>
-<td>Mid-term break</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>9</td>
-<td>9/10/2023</td>
-<td><a href="outline/lesson08_outline.html">Lesson 8: Introduction to Digital Image Processing and Analysis</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>10</td>
-<td>16/10/2023</td>
-<td><a href="outline/lesson09_outline.html">Lesson 9: Applied Image Analysis for the Urban Environment</a>)</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>11</td>
-<td>23/10/2023</td>
-<td><a href="outline/lesson10_outline.html">Lesson 10: Urban Network Analysis with GIS</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>12</td>
-<td>30/10/2023</td>
-<td><a href="outline/lesson11_outline.html">Lesson 11: Geographic Accessibility Analysis with GIS</a></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>13</td>
-<td>6/11/2023</td>
-<td><a href="outline/lesson12_outline.html">Lesson 12: Sharing Geographical Information</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>14</td>
-<td>13/11/2023</td>
-<td>Townhall Presentation</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>In this lesson, you will learn the basic concepts and methods of vector-based GIS Analysis. You will also gain hands-on experience on using QGIS to perform basic vector-based GIS analysis operations.</p>
+</section>
+<section id="content" class="level2">
+<h2 class="anchored" data-anchor-id="content">Content</h2>
+<ul>
+<li>Spatial SQL</li>
+<li>Spatial relationship</li>
+<li>Geoprocessing Techniques
+<ul>
+<li>CLIP</li>
+<li>DISSOLVE</li>
+<li>APPEND</li>
+<li>SPLIT</li>
+<li>ERASE</li>
+</ul></li>
+<li>Proximity Analysis
+<ul>
+<li>Buffering</li>
+<li>Thiessen Polygon</li>
+</ul></li>
+<li>Vector Overlaying</li>
+</ul>
+</section>
+<section id="lesson-slides-and-hands-on-notes" class="level2">
+<h2 class="anchored" data-anchor-id="lesson-slides-and-hands-on-notes">Lesson Slides and Hands-on Notes</h2>
+<ul>
+<li>Lesson slide in <a href="../lesson/Lesson04/Lesson04.html">html</a> format.</li>
+<li>Hands-on Exercise in <a href="https://gis4urbplan.netlify.app/hands-on_ex04">html</a> format.</li>
+</ul>
+</section>
+<section id="readings" class="level2">
+<h2 class="anchored" data-anchor-id="readings">Readings</h2>
+<section id="core-readings" class="level3">
+<h3 class="anchored" data-anchor-id="core-readings">Core readings</h3>
+<ul>
+<li><a href="https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/s10-02-searches-and-queries.html">Searches and Queries</a></li>
+<li><a href="https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/s11-geospatial-analysis-i-vector-o.html">Geospatial Analysis I: Vector Operations</a></li>
+</ul>
+</section>
+</section>
+<section id="qgis-methods" class="level2">
+<h2 class="anchored" data-anchor-id="qgis-methods">QGIS Methods</h2>
+<ul>
+<li><a href="https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/vector_spatial_analysis_buffers.html">10. Vector Spatial Analysis (Buffers))</a> of <strong>A Gentle Introduction to GIS</strong>.</li>
+<li><a href="https://docs.qgis.org/3.16/en/docs/training_manual/vector_analysis/basic_analysis.html">6.2. Lesson: Vector Analysis</a> of <strong>QGIS Training Manual</strong>.</li>
+<li>The following sub-sections of <strong>QGIS User Guide</strong>:
+<ul>
+<li><a href="https://docs.qgis.org/3.16/en/docs/user_manual/processing_algs/qgis/vectoranalysis.html">24.1.12. Vector analysis</a></li>
+<li><a href="https://docs.qgis.org/3.16/en/docs/user_manual/processing_algs/qgis/vectorcreation.html">24.1.13. Vector creation</a></li>
+<li><a href="https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/vectorgeneral.html">24.1.14. Vector general</a></li>
+<li><a href="https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/vectorgeometry.html">24.1.15. Vector geometry</a></li>
+<li><a href="https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/vectoroverlay.html">24.1.16. Vector overlay</a></li>
+<li><a href="https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/vectorselection.html">24.1.17. Vector selection</a></li>
+<li><a href="https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/vectortable.html">24.1.18. Vector table</a></li>
+</ul></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
