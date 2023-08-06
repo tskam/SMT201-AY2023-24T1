@@ -1,5 +1,5 @@
 ---
-title: "Lesson 9: Urban Network Analysis with GIS"
+title: "Lesson 10: Urban Network Analysis with GIS"
 date: "August 6, 2023"
 date-modified: "last-modified"
 format: html
@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Overview
 
-In this lesson, you will learn the basic concepts of network data model and network analysis methods. You will also gain hands-on experience on using QGIS to build network data models and to perform shortest path analysis. 
+In this lesson, you will learn the basic concepts of network data model and network analysis methods. You will also gain hands-on experience on using QGIS to build network data models and to perform shortest path analysis.
 
 ## Content
 
@@ -20,11 +20,11 @@ In this lesson, you will learn the basic concepts of network data model and netw
 -   Real world network system
 -   Complexity of urban road network
 -   Shortest path analysis algorithm
--   Delineating network service area 
+-   Delineating network service area
 
 ## Lesson Slides and Hands-on Notes
 
--   Lesson slides in [html](../lesson/Lesson09/Lesson09.html) and [pdf](../lesson/Lesson09/Lesson09.pdf) formats.
+-   Lesson slides in [html](../lesson/Lesson10/Lesson10.html).
 
 -   Hands-on Exercises:
 

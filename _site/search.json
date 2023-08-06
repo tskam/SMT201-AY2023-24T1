@@ -569,28 +569,28 @@
   {
     "objectID": "outline/lesson10_outline.html",
     "href": "outline/lesson10_outline.html",
-    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
     "section": "",
     "text": "In this lesson, you will learn the basic concepts of network data model and network analysis methods. You will also gain hands-on experience on using QGIS to build network data models and to perform shortest path analysis."
   },
   {
     "objectID": "outline/lesson10_outline.html#content",
     "href": "outline/lesson10_outline.html#content",
-    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
     "section": "Content",
     "text": "Content\n\nWhy analyse with network?\nNetwork model\nReal world network system\nComplexity of urban road network\nShortest path analysis algorithm\nDelineating network service area"
   },
   {
     "objectID": "outline/lesson10_outline.html#lesson-slides-and-hands-on-notes",
     "href": "outline/lesson10_outline.html#lesson-slides-and-hands-on-notes",
-    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
     "section": "Lesson Slides and Hands-on Notes",
-    "text": "Lesson Slides and Hands-on Notes\n\nLesson slides in html and pdf formats.\nHands-on Exercises:\n\nShortest Path Analysis: QGIS methods\nDelineating Service Area Using Network Distance Approach"
+    "text": "Lesson Slides and Hands-on Notes\n\nLesson slides in html.\nHands-on Exercises:\n\nShortest Path Analysis: QGIS methods\nDelineating Service Area Using Network Distance Approach"
   },
   {
     "objectID": "outline/lesson10_outline.html#references",
     "href": "outline/lesson10_outline.html#references",
-    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
     "section": "References",
     "text": "References\n\nConcepts and Methods\n\nManfred M. Fischer (2003) “GIS AND NETWORK ANALYSIS” in Handbook 5 Transport Geography and Spatial Systems. Hensher D., Button K., Haynes K. and Stopher P. (eds.); Pergamon\n5 Types of Network Analysis in GIS\nChun, Y, and Kim, H. (2018). Networks Defined. The Geographic Information Science & Technology Body of Knowledge (4th Quarter 2018 Edition), John P. Wilson (Ed.).\n\n\n\nApplications\nLee, Jin ; Lubienski, Christopher (2017) “The Impact of School Closures on Equity of Access in Chicago”, Education and Urban Society, Vol.49 (1), p.53-80.\nJan Burdziej (2017) “Using hexagonal grids and network analysis for spatial accessibility assessment in urban environments – a case study of public amenities in Toruń”, MISCELLANEA GEOGRAPHICA – REGIONAL STUDIES ON DEVELOPMENT, Vol. 23, No. 2.\nRizwan Shahid, et al. (2009) “Comparison of distance measures in spatial analytical modeling for health service planning”, BMC Health Services Research, p1-14.\nBalasubramani, K., Gomathi, M., & Prasad, S. (2016) “GIS-based Service Area Analysis for Optimal Planning Strategies: A Case Study of Fire Service Stations in Madurai City”\n\n\nQGIS Methods\n\nQGIS Network Analysis Capabilities\n6.3. Lesson: Network Analysis of QGIS Training Manual.\nAbout QNEAT3\nAlba KUCUKALI, et. al. (2022) “Evaluating the pedestrian accessibility to public services using open-source geospatial data and QGIS software”, Nova Geodesia 2(2):42.\nUNESCO (2022) Isochrone-based catchment areas for education, IIEP Technical Note.\nLinden, Philip (2021)Improving accessibility to the bus service. Master Thesis, UMEA Universitet.\nQGIS Tutorials and Tips, Service Area Analysis using Openrouteservice(QGIS3)."
   },
@@ -723,7 +723,7 @@
   {
     "objectID": "outline/lesson10_outline.html#overview",
     "href": "outline/lesson10_outline.html#overview",
-    "title": "Lesson 9: Urban Network Analysis with GIS",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
     "section": "",
     "text": "In this lesson, you will learn the basic concepts of network data model and network analysis methods. You will also gain hands-on experience on using QGIS to build network data models and to perform shortest path analysis."
   },
@@ -1221,6 +1221,69 @@
     "objectID": "lesson/Lesson11/lesson09.html#qgis-network-analysis-support",
     "href": "lesson/Lesson11/lesson09.html#qgis-network-analysis-support",
     "title": "Lesson 9: Urban Network Analysis with GIS",
+    "section": "QGIS Network Analysis Support",
+    "text": "QGIS Network Analysis Support\n\n\n\nBuild in\n\n\n\n\nPlug-in\n\n\nFor more detail, visit this link"
+  },
+  {
+    "objectID": "lesson/Lesson10/lesson10.html#content",
+    "href": "lesson/Lesson10/lesson10.html#content",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
+    "section": "Content",
+    "text": "Content\n\nWhy analyse with network?\nNetwork model\nReal world network system\nComplexity of urban road network\nShortest path analysis algorithm\nNetwork analysis methods"
+  },
+  {
+    "objectID": "lesson/Lesson10/lesson10.html#location-question",
+    "href": "lesson/Lesson10/lesson10.html#location-question",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
+    "section": "Location question",
+    "text": "Location question\n\nHow to assign the eldercare centres to the closest polyclinic?"
+  },
+  {
+    "objectID": "lesson/Lesson10/lesson10.html#a-network-model",
+    "href": "lesson/Lesson10/lesson10.html#a-network-model",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
+    "section": "A Network Model",
+    "text": "A Network Model\n\nA link refers to a linear segment defined by two end points. Also called edges.\nA node refers to an end point of a link."
+  },
+  {
+    "objectID": "lesson/Lesson10/lesson10.html#poor-man-network-data-source",
+    "href": "lesson/Lesson10/lesson10.html#poor-man-network-data-source",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
+    "section": "Poor man network data source",
+    "text": "Poor man network data source\nBulk extract at Geofabrik free download server."
+  },
+  {
+    "objectID": "lesson/Lesson10/lesson10.html#shortest-path-analysis",
+    "href": "lesson/Lesson10/lesson10.html#shortest-path-analysis",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
+    "section": "Shortest Path Analysis",
+    "text": "Shortest Path Analysis\nShortest path analysis finds the path with the minimum cumulative impedance between nodes on a network. The path may connect just two nodes an origin and a destination or have specific stops between the nodes."
+  },
+  {
+    "objectID": "lesson/Lesson10/lesson10.html#fastest-path",
+    "href": "lesson/Lesson10/lesson10.html#fastest-path",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
+    "section": "Fastest Path",
+    "text": "Fastest Path\n\nFastest paths are based on time and you can use any measure of time you choose (seconds, minutes, hours, etc.)."
+  },
+  {
+    "objectID": "lesson/Lesson10/lesson10.html#travelling-salesman-problem",
+    "href": "lesson/Lesson10/lesson10.html#travelling-salesman-problem",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
+    "section": "Travelling salesman problem",
+    "text": "Travelling salesman problem\n\nA route can visit many stops in a network. The origin can also be the destination, as the warehouse is in this example delivery route."
+  },
+  {
+    "objectID": "lesson/Lesson10/lesson10.html#beyond-network-model",
+    "href": "lesson/Lesson10/lesson10.html#beyond-network-model",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
+    "section": "Beyond network model",
+    "text": "Beyond network model\nAccessibility modelling.\n\nSource: https://developers.route360.net/index.html"
+  },
+  {
+    "objectID": "lesson/Lesson10/lesson10.html#qgis-network-analysis-support",
+    "href": "lesson/Lesson10/lesson10.html#qgis-network-analysis-support",
+    "title": "Lesson 10: Urban Network Analysis with GIS",
     "section": "QGIS Network Analysis Support",
     "text": "QGIS Network Analysis Support\n\n\n\nBuild in\n\n\n\n\nPlug-in\n\n\nFor more detail, visit this link"
   }
