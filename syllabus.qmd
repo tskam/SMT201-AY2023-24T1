@@ -75,13 +75,13 @@ There are no pre-requisites for the class and the class is open to all SMT stude
 
 The grading distribution of this course are as follows:
 
-| Component                                                              | Weights |
-|-------------------------------------------------------|-----------------|
-| Class Participation                                                    | 5%      |
-| Hands-on Exercise (Students are allowed to miss maximum 3 submissions) | 10%     |
-| In-class Exercise                                                      | 20%     |
-| Take-home Exercise (2 x 15%)                                           | 30%     |
-| GIS Project                                                            | 35%     |
+| Component                      | Weights |
+|--------------------------------|---------|
+| Class Participation            | 5%      |
+| Hands-on Exercise              | 10%     |
+| In-class Exercise              | 15%     |
+| Take-home Exercise (15% + 20%) | 35%     |
+| GIS Project                    | 35%     |
 
 There will be no mid-term test or final examination for this course.
 
