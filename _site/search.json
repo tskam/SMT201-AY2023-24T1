@@ -1328,5 +1328,61 @@
     "title": "Lesson 12: Sharing Geographical Information with WebGIS",
     "section": "GeoWeb Mapping evolution",
     "text": "GeoWeb Mapping evolution\n\nImpact of Rich Internet Application (RIA)"
+  },
+  {
+    "objectID": "Take-home_Ex01.html",
+    "href": "Take-home_Ex01.html",
+    "title": "Take-home Exercise 1: Urban Applications of Vector-based GIS Analysis",
+    "section": "",
+    "text": "This handout provides the context, task, expectations and grading criteria of Take-home Exercise 1. Students must review and understand them before getting started with the take-home exercise."
+  },
+  {
+    "objectID": "Take-home_Ex01.html#overview",
+    "href": "Take-home_Ex01.html#overview",
+    "title": "Take-home Exercise 1: Urban Applications of Vector-based GIS Analysis",
+    "section": "",
+    "text": "This handout provides the context, task, expectations and grading criteria of Take-home Exercise 1. Students must review and understand them before getting started with the take-home exercise."
+  },
+  {
+    "objectID": "Take-home_Ex01.html#setting-the-scene",
+    "href": "Take-home_Ex01.html#setting-the-scene",
+    "title": "Take-home Exercise 1: Urban Applications of Vector-based GIS Analysis",
+    "section": "Setting the Scene",
+    "text": "Setting the Scene\nHuman mobility, the movement of human beings in space and time, reflects the spatial-temporal characteristics of human behavior. With the advancement Information and Communication Technologies (ICT) especially smart phone, a large volume of data related to human mobility have been collected. By using appropriate GIS analysis methods, these data are potentially useful in supporting smart city planning and management.\nIn Singapore, one of the important source of data related to human mobility is from Land Transport Authority (LTA) DataMall. Two data sets related to human mobility are provided by the portal, they are: Passenger Volume by Origin Destination Train Stations and Passenger Volume by Origin Destination Bus Stops. One of the limitation of these data sets is that their location are biased to either bus stops or MRT/LRT stations. In 2020, another very interesting human mobility data set called Grab Posisi was released by GRAB, one of the largest shared taxi operator in South-east Asia. There are two data sets been released and one of them is for Singapore."
+  },
+  {
+    "objectID": "Take-home_Ex01.html#task",
+    "href": "Take-home_Ex01.html#task",
+    "title": "Take-home Exercise 1: Urban Applications of Vector-based GIS Analysis",
+    "section": "Task",
+    "text": "Task\nIn this take-home exercise, we are interested to explore the potential use of Grab Posisi data set to gain better understanding of the spatial-temporal patterns of human mobility in Singapore and how these patterns are related urban activities such as place of work, study and recreation, just to name a few of them.\nThe specific tasks of this hands-on exercise are as follow:\n\nDerive an analytical hexagon GIS data by using appropriate GIS analysis function of QGIS.\nProcess, wrangling and organise Grab Posisi data set spatio-temporally by using the analytical hexagon layer.\nPrepare a series of thematic maps by using appropriate mapping techniques showing the spatio-temporal patterns of human mobility at one-hour interval.\nFor each thematic map prepared, write a short report of not more than 100 words describing the spatio-temporal patterns revealed by the map.\nAssemble at least five urban functions such as place to stay, education, work, shopping and recreation etc.\nWith reference to the above urban functions GIS data, analyse and visualise the relationship between urban mobility and the selected urban functions.\nFor each thematic map prepared, write a short report of not more than 100 words describing the relationship revealed by the map.\nWith reference to the analysis results above, discuss how these findings can be used to support smart city planning and management. (Not more than 250 words)"
+  },
+  {
+    "objectID": "Take-home_Ex01.html#data",
+    "href": "Take-home_Ex01.html#data",
+    "title": "Take-home Exercise 1: Urban Applications of Vector-based GIS Analysis",
+    "section": "Data",
+    "text": "Data\nFor the purpose of this study, a subset of 28000 trips of the complete Grab Posisi data are provided. It is available at Take-home Exercise 1 of eLearn. Please refer to the web article entitle Grab-Posisi - Southeast Asia’s First Comprehensive GPS Trajectory Dataset for more details including the data dictionary of the data set."
+  },
+  {
+    "objectID": "Take-home_Ex01.html#take-home-exercise-deliverable",
+    "href": "Take-home_Ex01.html#take-home-exercise-deliverable",
+    "title": "Take-home Exercise 1: Urban Applications of Vector-based GIS Analysis",
+    "section": "Take-home Exercise Deliverable",
+    "text": "Take-home Exercise Deliverable\n\nGIS data repository\nThe GIS repository includes but not limited to geospatial data compiled and derived, QGIS project file and data dictionary. It must be in a single zipped file (i.e. .zip). The geospatial data must be stored in a GeoPackage database format. The data dictionary can be in either MS Word document or edited into the GIS data.The project deliverable must be uploaded onto eLearn.\n\n\nTake-home Exercise Report\nYou are required to edit your take-home exercise report in MS Word format. The take-home exercise report, beside others, should include all the thematic maps prepared and their respective discussion.\nMore importantly, the report must provide a reproducible step-by-step guide on the following process:\n\ndata compilation, extraction and integration,\ndata cleaning, preparation and wrangling,\nGIS analysis (including tabular and graphical analysis), and\nGIS maps design.\n\n\nNote: Reproducible means that readers are able to perform the same analysis and obtain similar results by using the same data sets and by following the step-by-step guide.\n\nThe title of the report should be in the form of SMT201_AY2023-24T1_Take-home_Exercise1.\n\nNote: This is an individual exercise. You are required to work on the take home exercise and prepare submission individually."
+  },
+  {
+    "objectID": "Take-home_Ex01.html#grading",
+    "href": "Take-home_Ex01.html#grading",
+    "title": "Take-home Exercise 1: Urban Applications of Vector-based GIS Analysis",
+    "section": "Grading",
+    "text": "Grading\n\nQuality of the GIS data model built (including metadata) (20 marks),\nAppropriateness of the GIS methods used (20 marks),\nQuality of GIS maps prepared (20 marks),\nReproducibility of the GIS processes (20 marks)\nAbility to provide correct interpretation of the analysis results and to recommend appropriate alternatives (20 marks)."
+  },
+  {
+    "objectID": "Take-home_Ex01.html#submission-date",
+    "href": "Take-home_Ex01.html#submission-date",
+    "title": "Take-home Exercise 1: Urban Applications of Vector-based GIS Analysis",
+    "section": "Submission Date",
+    "text": "Submission Date\nThe take-home exercise deliverable must be uploaded on eLearn by the submission deadline stated below.\nDue Date: 17th September 2023, 11:59pm (midnight)."
   }
 ]
