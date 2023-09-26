@@ -25,7 +25,7 @@
     "href": "GISproject.html#topic",
     "title": "GIS Project",
     "section": "Topic",
-    "text": "Topic\nYou are required to choose one of the sub-theme provided below:\nTo Be Confirmed!"
+    "text": "Topic\nYou are required to choose one of the sub-theme provided below:\nTheme 1: Urban Application of Satellite Remote Sensing and GIS\n\nSub-theme 1: A comparison study of land cover classification by using Landsat 8 and Sentinel 2 data.\nSub-theme 2: Land cover change detection using high resolution multispectral satellite data.\nSub-theme 3: Land use classification by integrating GIS and remotely sensed data.\n\nFor Theme 1, you are required to one of the ASEAN city, excluding Singapore as the study area.\nTheme 2: GIS Analysis for Social Good\n\nSub-theme 1: Equity of Access. In this study, you are required to select five social services and their respective target users and applying GIS-based network analysis to assess how accessible they are.\nSub-theme 2: Select\n\nReference: GIS for Social Good\nHow do you promote the public good and social justice through your GIS work or projects?"
   },
   {
     "objectID": "GISproject.html#scope-of-work",
@@ -1384,5 +1384,68 @@
     "title": "Take-home Exercise 1: Urban Applications of Vector-based GIS Analysis",
     "section": "Submission Date",
     "text": "Submission Date\nThe take-home exercise deliverable must be uploaded on eLearn by the submission deadline stated below.\nDue Date: 17th 20th September 2023, 11:59pm (midnight)."
+  },
+  {
+    "objectID": "Take-home_Ex02.html",
+    "href": "Take-home_Ex02.html",
+    "title": "Take-home Exercise 2: Urban Applications of Raster-based GIS Analysis",
+    "section": "",
+    "text": "This handout provides the context, task, expectations and grading criteria of Take-home Exercise 2. Students must review and understand them before getting started with the take-home exercise."
+  },
+  {
+    "objectID": "Take-home_Ex02.html#overview",
+    "href": "Take-home_Ex02.html#overview",
+    "title": "Take-home Exercise 2: Urban Applications of Raster-based GIS Analysis",
+    "section": "",
+    "text": "This handout provides the context, task, expectations and grading criteria of Take-home Exercise 2. Students must review and understand them before getting started with the take-home exercise."
+  },
+  {
+    "objectID": "Take-home_Ex02.html#setting-the-scene",
+    "href": "Take-home_Ex02.html#setting-the-scene",
+    "title": "Take-home Exercise 2: Urban Applications of Raster-based GIS Analysis",
+    "section": "Setting the Scene",
+    "text": "Setting the Scene\nNusantara, officially known as the Capital City of Nusantara (Indonesian: Ibu Kota Nusantara, IKN), is the future capital of Indonesia, scheduled to be inaugurated on 17 August 2024, coinciding with Indonesian Independence Day.\nThe city is designed for smart and sustainability and protecting its surrounding Kalimantan forests, targeting 80% of mobility to be supported by public transport, cycling, or walking and drawing all of its energy from renewable sources and allocating 10% of its area to food production. It is expected to encompass an area of 2,560 km2 (990 sq mi), surrounded by hilly landscapes, a forest, and a natural bay.\nThe site is situated on the east coast of the island of Borneo, specifically in the province of East Kalimantan."
+  },
+  {
+    "objectID": "Take-home_Ex02.html#task",
+    "href": "Take-home_Ex02.html#task",
+    "title": "Take-home Exercise 2: Urban Applications of Raster-based GIS Analysis",
+    "section": "Task",
+    "text": "Task\n“We want our new capital city to become the centre of research and innovation at international level. So we need to build world-class universities here,” Mr. Widodo, the president of Indonesia told the media.\nIn this take-home exercise, you are required to apply GIS analysis and multi-criteria evaluation method to identify site suitable for the proposed new university by using the criteria below:\n\nIt should be between 450-500 hectares in size\nIt should avoid steep slope. Steep slope developments are relative more costly because they involve cut-and-fill and is less environmental friendly.\nIt should be away from potential natural disaster risk areas such as sea coasts, major rivers and volcanoes.\nIt should be near to current urban settlement areas but not at the current major settlement areas.\nIt should avoid natural forest as much as possible.\nIt should be highly accessible via road transport."
+  },
+  {
+    "objectID": "Take-home_Ex02.html#the-study",
+    "href": "Take-home_Ex02.html#the-study",
+    "title": "Take-home Exercise 2: Urban Applications of Raster-based GIS Analysis",
+    "section": "The study",
+    "text": "The study\nThe selected suitable sites must ne located in Sepaku district (kecamatan in Bahasa Indonesia) of East Kalimantan."
+  },
+  {
+    "objectID": "Take-home_Ex02.html#the-data",
+    "href": "Take-home_Ex02.html#the-data",
+    "title": "Take-home Exercise 2: Urban Applications of Raster-based GIS Analysis",
+    "section": "The Data",
+    "text": "The Data\nFor the purpose of this project, the following data sources are recommended but students are welcome to include other appropriate data.\n\nLanduse/Landcover (LULC) 2019. The word tutupan lahan means landcover in bahasa Indonesia.\nDEM SRTM 30m\nAdministrative Boundaries 2020: Province, Regency, District, Urban/rural sub-district\nRupa Bumi Indonesia (RBI) Provinsi Kalimantan Timur Perwilayah (Kabupaten/Kota). The term rupabumi means topographic. This data repository provides a comprehensive collection of topographical data layers of East Kalimantan.\nOSM data for Kalimantan.\n\n\n\n\n\n\n\nImportant\n\n\n\nSome of the descriptions, data field names, and data values are in Bahasa Indonesia. Google translator and others can be used to translate the words if necessary"
+  },
+  {
+    "objectID": "Take-home_Ex02.html#grading",
+    "href": "Take-home_Ex02.html#grading",
+    "title": "Take-home Exercise 2: Urban Applications of Raster-based GIS Analysis",
+    "section": "Grading",
+    "text": "Grading\n\nQuality of the GIS data model built (including metadata) (20 marks),\nAppropriateness of the GIS methods used (20 marks),\nQuality of GIS maps prepared (20 marks),\nReproducibility of the GIS processes (20 marks)\nAbility to provide correct interpretation of the analysis results and to recommend appropriate alternatives (20 marks)."
+  },
+  {
+    "objectID": "Take-home_Ex02.html#submission-date",
+    "href": "Take-home_Ex02.html#submission-date",
+    "title": "Take-home Exercise 2: Urban Applications of Raster-based GIS Analysis",
+    "section": "Submission Date",
+    "text": "Submission Date\nThe take-home exercise deliverable must be uploaded on eLearn by the submission deadline stated below.\nDue Date: 15th October 2023, 11:59pm (midnight)."
+  },
+  {
+    "objectID": "Take-home_Ex02.html#take-home-exercise-deliverable",
+    "href": "Take-home_Ex02.html#take-home-exercise-deliverable",
+    "title": "Take-home Exercise 2: Urban Applications of Raster-based GIS Analysis",
+    "section": "Take-home Exercise Deliverable",
+    "text": "Take-home Exercise Deliverable\n\nGIS data repository\nThe GIS repository includes but not limited to geospatial data compiled and derived, QGIS project file and data dictionary. It must be in a single zipped file (i.e. .zip). The geospatial data must be stored in a GeoPackage database format. The data dictionary can be in either MS Word document or edited into the GIS data. The project deliverable must be uploaded onto eLearn.\n\n\n\n\n\n\nNote\n\n\n\nFor Mac users, you can save the raster data in geotiff format. Please do keep these data in a single folder called geotiff.\n\n\n\n\nTake-home Exercise Report\nYou are required to edit your take-home exercise report in MS Word format. The take-home exercise report, beside others, should include all the thematic maps prepared and their respective discussion.\nMore importantly, the report must provide a reproducible step-by-step guide on the following process:\n\ndata compilation, extraction and integration,\ndata cleaning, preparation and wrangling,\nGIS analysis (including tabular and graphical analysis), and\nGIS maps design.\n\n\n\n\n\n\n\nNote\n\n\n\nReproducible means that readers are able to perform the same analysis and obtain similar results by using the same data sets and by following the step-by-step guide.\n\n\nThe title of the report should be in the form of SMT201_AY2023-24T1_Take-home_Exercise2.\n\n\n\n\n\n\nWarning\n\n\n\nThis is an individual exercise. You are required to work on the take home exercise and prepare submission individually."
   }
 ]
