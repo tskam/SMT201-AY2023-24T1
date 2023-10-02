@@ -1110,7 +1110,7 @@
     "href": "lesson/Lesson08/lesson08.html#reference",
     "title": "Lesson 8: Fundamentals of Remote Sensing",
     "section": "Reference",
-    "text": "Reference"
+    "text": "Reference\n\nRichards, John A (2013) Remote Sensing Digital Image Analysis: An Introduction, Springer.\n\nChapter 1: Sources and Characteristics\nChapter 4: Radiometric Enhancement of Images\nChapter 5: Geometric Processing and Enhancement: Image Domain Techniques\n\nCanada Centre for Remote Sensing Fundamentals of Remote Sensing."
   },
   {
     "objectID": "lesson/Lesson09/lesson09.html#content",
@@ -1468,5 +1468,12 @@
     "title": "GIS Project",
     "section": "The Data",
     "text": "The Data\n\nDerna_city_250m_hexagon consists of a collection 250m hexagons defining the study area. It is in ESRI shapefile format and is available in the GIS project folder of eLearn.\nGIS data layer can be downloaded but not limited to OSM Libya at Geofabrik and Libya Floods at Humanitarian Data Exchange portal.\nSatellite images can be downloaded from but not limited to EarthExplorer and Opernicus Open Access Hub"
+  },
+  {
+    "objectID": "lesson/Lesson08/lesson08.html#reference-1",
+    "href": "lesson/Lesson08/lesson08.html#reference-1",
+    "title": "Lesson 8: Fundamentals of Remote Sensing",
+    "section": "Reference",
+    "text": "Reference\nArticles\n\nHow to Interpret Common False Color Images\nWhy is that Forest Red and that Cloud Blue? How to Interpret a False-Color Satellite Image\nSpace-based Earth observations for societal benefit\nData for All: Using Satellite Observations for Social Good\nGeoEye-1 Satellite Sensor\nLandsat and EROS Center\nSentinel Online"
   }
 ]
