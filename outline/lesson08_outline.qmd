@@ -45,3 +45,20 @@ In this lesson, you will learn the basic principles and concepts of digital imag
 ### QGIS Methods
 
 -   [From GIS to Remote Sensing](https://fromgistors.blogspot.com/)
+
+### Remote Sensing Data
+
+-   [Landsat and EROS Center](https://www.usgs.gov/landsat-missions)
+
+-   [Landsat Science](https://landsat.gsfc.nasa.gov/)
+
+-   [Landsat program](https://en.wikipedia.org/wiki/Landsat_program)
+
+-   [Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2)
+
+-   [Sentinel Online](https://sentinels.copernicus.eu/web/sentinel/home)
+
+-   [GeoEye-1 Satellite Sensor](https://www.satimagingcorp.com/satellite-sensors/geoeye-1/)
+
+-   [WorldView-3](https://earth.esa.int/eogateway/missions/worldview-3)
+
