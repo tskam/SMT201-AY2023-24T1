@@ -35,7 +35,7 @@ You are required to choose one of the theme provided below:
 
 - GIS data layer can be downloaded but not limited to [OSM Libya](https://download.geofabrik.de/africa/libya.html) at Geofabrik and [Libya Floods](https://data.humdata.org/event/f1c3a777-4079-49fb-9d64-12a72f46f1e3) at Humanitarian Data Exchange portal.
 
-- Satellite images can be downloaded from but not limited to [EarthExplorer](https://earthexplorer.usgs.gov/) and [Opernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) 
+- Satellite images can be downloaded from but not limited to [EarthExplorer](https://earthexplorer.usgs.gov/), [Opernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) and [OpenAerialMap](https://openaerialmap.org/)
 
 ## Scope of Work
 
@@ -227,7 +227,7 @@ Note that the following examples are for references purposes. You are urged to u
 
 [See why Libya’s floods were so deadly in maps and videos](https://www.washingtonpost.com/world/2023/09/12/deadly-libya-flooding-cause/)
 
-
+[Storm Daniel, Libya, September 2023](https://storymaps.arcgis.com/stories/e451e32a054847469b1c1c731a8e5cff)
 
 
 ### Research Publication
@@ -256,5 +256,5 @@ Marco Chini et. al. (2019) [Sentinel-1 In SAR Coherence to Detect Flood water in
 
 Zhixia Wu et. al. (2023) [Urban Flood Loss Assessment and Index Insurance Compensation Estimation by Integrating Remote Sensing and Rainfall Multi-Source Data: A Case Study of the 2021 Henan Rainstorm](https://www.mdpi.com/2071-1050/15/15/11639). Sustainability, 15(15), 11639.
 
-
+Oliveira, E.R.; Disperati, L.; Alves, F.L. (2023) [MINDED-FBA: An Automatic Remote Sensing Tool for the Estimation of Flooded and Burned Areas](https://www.mdpi.com/2072-4292/15/3/724). *Remote Sensing*, 28 pages.
 
