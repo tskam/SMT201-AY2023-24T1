@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Overview
 
-**Accessibility** is the measure of the capacity of a location to be reached from, or to be reached by, different locations. It is a key element in urban planning and management since it is a direct expression of mobility either in terms of people, freight, or information within a city or between cities.  In this lesson, you will learn the basic concepts of **Geography of Accessibility**. You will also gain hands-on experience on using both build in and plug-in network analysis functions of QGIS to derive accessibility indexes. 
+**Accessibility** is the measure of the capacity of a location to be reached from, or to be reached by, different locations. It is a key element in urban planning and management since it is a direct expression of mobility either in terms of people, freight, or information within a city or between cities. In this lesson, you will learn the basic concepts of **Geography of Accessibility**. You will also gain hands-on experience on using both build in and plug-in network analysis functions of QGIS to derive accessibility indexes.
 
 ## Content
 
@@ -63,3 +63,8 @@ Balasubramani, K., Gomathi, M., & Prasad, S. (2016) ["GIS-based Service Area Ana
 -   Linden, Philip (2021)[**Improving accessibility to the bus service**](https://www.diva-portal.org/smash/get/diva2:1572503/FULLTEXT01.pdf). Master Thesis, UMEA Universitet.
 
 -   QGIS Tutorials and Tips, [Service Area Analysis using Openrouteservice(QGIS3)](https://www.qgistutorials.com/en/docs/3/service_area_analysis.html).
+
+-   Ricky Holzer (April 30, 2018) [Analyzing Pedestrian Accessibility Using QGIS and OpenStreetMaps Data](https://www.rickyholzer.com/2018/analyzing-pedestrian-accessibility-using-qgis-and-openstreetmaps-data/)
+
+-   Sam Marshall [Gravity Model of Spatial Interaction in QGIS](https://gsmarshall.github.io/gravity/gravity.html)
+

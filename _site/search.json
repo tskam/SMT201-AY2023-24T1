@@ -620,7 +620,7 @@
     "href": "outline/lesson11_outline.html#references",
     "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
     "section": "References",
-    "text": "References\n\nConcepts and Methods\n\nManfred M. Fischer (2003) “GIS AND NETWORK ANALYSIS” in Handbook 5 Transport Geography and Spatial Systems. Hensher D., Button K., Haynes K. and Stopher P. (eds.); Pergamon\n5 Types of Network Analysis in GIS\nChun, Y, and Kim, H. (2018). Networks Defined. The Geographic Information Science & Technology Body of Knowledge (4th Quarter 2018 Edition), John P. Wilson (Ed.).\n\n\n\nApplications\nLee, Jin ; Lubienski, Christopher (2017) “The Impact of School Closures on Equity of Access in Chicago”, Education and Urban Society, Vol.49 (1), p.53-80.\nJan Burdziej (2017) “Using hexagonal grids and network analysis for spatial accessibility assessment in urban environments – a case study of public amenities in Toruń”, MISCELLANEA GEOGRAPHICA – REGIONAL STUDIES ON DEVELOPMENT, Vol. 23, No. 2.\nRizwan Shahid, et al. (2009) “Comparison of distance measures in spatial analytical modeling for health service planning”, BMC Health Services Research, p1-14.\nBalasubramani, K., Gomathi, M., & Prasad, S. (2016) “GIS-based Service Area Analysis for Optimal Planning Strategies: A Case Study of Fire Service Stations in Madurai City”\n\n\nQGIS Methods\n\nQGIS Network Analysis Capabilities\n6.3. Lesson: Network Analysis of QGIS Training Manual.\nAbout QNEAT3\nAlba KUCUKALI, et. al. (2022) “Evaluating the pedestrian accessibility to public services using open-source geospatial data and QGIS software”, Nova Geodesia 2(2):42.\nUNESCO (2022) Isochrone-based catchment areas for education, IIEP Technical Note.\nLinden, Philip (2021)Improving accessibility to the bus service. Master Thesis, UMEA Universitet.\nQGIS Tutorials and Tips, Service Area Analysis using Openrouteservice(QGIS3)."
+    "text": "References\n\nConcepts and Methods\n\nManfred M. Fischer (2003) “GIS AND NETWORK ANALYSIS” in Handbook 5 Transport Geography and Spatial Systems. Hensher D., Button K., Haynes K. and Stopher P. (eds.); Pergamon\n5 Types of Network Analysis in GIS\nChun, Y, and Kim, H. (2018). Networks Defined. The Geographic Information Science & Technology Body of Knowledge (4th Quarter 2018 Edition), John P. Wilson (Ed.).\n\n\n\nApplications\nLee, Jin ; Lubienski, Christopher (2017) “The Impact of School Closures on Equity of Access in Chicago”, Education and Urban Society, Vol.49 (1), p.53-80.\nJan Burdziej (2017) “Using hexagonal grids and network analysis for spatial accessibility assessment in urban environments – a case study of public amenities in Toruń”, MISCELLANEA GEOGRAPHICA – REGIONAL STUDIES ON DEVELOPMENT, Vol. 23, No. 2.\nRizwan Shahid, et al. (2009) “Comparison of distance measures in spatial analytical modeling for health service planning”, BMC Health Services Research, p1-14.\nBalasubramani, K., Gomathi, M., & Prasad, S. (2016) “GIS-based Service Area Analysis for Optimal Planning Strategies: A Case Study of Fire Service Stations in Madurai City”\n\n\nQGIS Methods\n\nQGIS Network Analysis Capabilities\n6.3. Lesson: Network Analysis of QGIS Training Manual.\nAbout QNEAT3\nAlba KUCUKALI, et. al. (2022) “Evaluating the pedestrian accessibility to public services using open-source geospatial data and QGIS software”, Nova Geodesia 2(2):42.\nUNESCO (2022) Isochrone-based catchment areas for education, IIEP Technical Note.\nLinden, Philip (2021)Improving accessibility to the bus service. Master Thesis, UMEA Universitet.\nQGIS Tutorials and Tips, Service Area Analysis using Openrouteservice(QGIS3).\nRicky Holzer (April 30, 2018) Analyzing Pedestrian Accessibility Using QGIS and OpenStreetMaps Data\nSam Marshall Gravity Model of Spatial Interaction in QGIS"
   },
   {
     "objectID": "outline/lesson12_outline.html",
@@ -1475,5 +1475,40 @@
     "title": "Lesson 8: Fundamentals of Remote Sensing",
     "section": "Reference",
     "text": "Reference\nArticles\n\nHow to Interpret Common False Color Images\nWhy is that Forest Red and that Cloud Blue? How to Interpret a False-Color Satellite Image\nSpace-based Earth observations for societal benefit\nData for All: Using Satellite Observations for Social Good\nGeoEye-1 Satellite Sensor\nLandsat and EROS Center\nSentinel Online"
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson11.html#content",
+    "href": "lesson/Lesson11/lesson11.html#content",
+    "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
+    "section": "Content",
+    "text": "Content\n\nBasic Concepts of Geography of Accessibility\nAccessibility Models\n\nStewart Potential model\nReilly model\nHuff model"
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson11.html#what-is-geography-of-accessibility",
+    "href": "lesson/Lesson11/lesson11.html#what-is-geography-of-accessibility",
+    "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
+    "section": "What is Geography of Accessibility?",
+    "text": "What is Geography of Accessibility?\n\n\n\nAccessibility is the measure of the capacity of a location to be reached from, or to be reached by, different locations. Therefore, the capacity and the arrangement of transport infrastructure are key elements in the determination of accessibility."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson11.html#measuring-distances",
+    "href": "lesson/Lesson11/lesson11.html#measuring-distances",
+    "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
+    "section": "Measuring Distances",
+    "text": "Measuring Distances\n\nDifferent spatial and distance conceptualizations that are commonly employed when measuring and modelling accessibility."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson11.html#the-geographical-unit",
+    "href": "lesson/Lesson11/lesson11.html#the-geographical-unit",
+    "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
+    "section": "The Geographical Unit",
+    "text": "The Geographical Unit\n\nThis issue of irregularly shaped polygons created arbitrarily (such as county boundaries or block groups that have been created from a political process)."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson11.html#the-potential-model",
+    "href": "lesson/Lesson11/lesson11.html#the-potential-model",
+    "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
+    "section": "The Potential Model",
+    "text": "The Potential Model\nThe classic model"
   }
 ]
