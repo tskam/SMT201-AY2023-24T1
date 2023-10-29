@@ -1510,5 +1510,12 @@
     "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
     "section": "The Potential Model",
     "text": "The Potential Model\nThe classic model"
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson11.html#spatial-accessibility-measure-sam",
+    "href": "lesson/Lesson11/lesson11.html#spatial-accessibility-measure-sam",
+    "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
+    "section": "Spatial Accessibility Measure (SAM)",
+    "text": "Spatial Accessibility Measure (SAM)\nThe formula:\n\nwhere\n\nAai is the accessibility in ED i,\nnj is the capacity of the target facility j.\npi is the demand of this ED, and\ndij is the network distance between the EDi and each facility j.\n\n\nReference: Stamatis Kalogirou & Ronan Foley (2006) “Health, place and Hanly: Modelling accessibility to hospitals in Ireland”, Irish Geography, Volume 39(1), 2006, 52-68."
   }
 ]

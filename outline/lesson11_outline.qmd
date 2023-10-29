@@ -57,4 +57,3 @@ Balasubramani, K., Gomathi, M., & Prasad, S. (2016) ["GIS-based Service Area Ana
 -   Ricky Holzer (April 30, 2018) [Analyzing Pedestrian Accessibility Using QGIS and OpenStreetMaps Data](https://www.rickyholzer.com/2018/analyzing-pedestrian-accessibility-using-qgis-and-openstreetmaps-data/)
 
 -   Sam Marshall [Gravity Model of Spatial Interaction in QGIS](https://gsmarshall.github.io/gravity/gravity.html)
-

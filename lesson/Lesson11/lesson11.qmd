@@ -157,62 +157,28 @@ Limitation of the method:
 :::
 :::
 
-## The Potential Model
+## Spatial Accessibility Measure (SAM)
 
-### The classic model
+The formula:
 
-![](img/image2.jpg){width="600"}
+![](img/image13.jpg)
 
-------------------------------------------------------------------------
+where
 
-### The Modified Potential Formula
+-   *Aai* is the accessibility in ED *i*,
+-   *nj* is the capacity of the target facility *j*.
+-   *pi* is the demand of this ED, and
+-   *dij* is the network distance between the *EDi* and each facility *j*.
 
-![](img/image5.jpg)
-
-------------------------------------------------------------------------
-
-### Real world application of potential model
-
--   Accessibility to urban functions study.
-
-![](img/image6a.jpg)
-
-------------------------------------------------------------------------
-
-### Real world application of potential model
-
-::: columns
-::: {.column width="50%"}
--   Accessibility to shopping centres.
-
-![](img/image6b.jpg)
+::: {style="font-size: 0.65em"}
+Reference: Stamatis Kalogirou & Ronan Foley (2006) ["Health, place and Hanly: Modelling accessibility to hospitals in Ireland"](https://www.tandfonline.com/doi/abs/10.1080/00750770609555866), *Irish Geography*, Volume 39(1), 2006, 52-68.
 :::
-
-::: {.column width="50%"}
-Accessibility to health services
-
-![](img/image6c.jpg)
-:::
-:::
-
-------------------------------------------------------------------------
-
-### Real world application of potential model
-
--   Overall accessibility
-
-![](img/image6d.jpg)
-
-
-
-
-
 
 ```{r}
 #| echo: false
 #| eval: false
 renderthis::to_pdf(
-  from = "https://smt201-ay2022-23t1.netlify.app/lesson/lesson09/lesson09.html",
-  to = "D://SMT201_AY2022-23T1/02-Lesson/pdf/Lesson09.pdf"
+  from = "https://smt201-ay2023-24t1.netlify.app/lesson/lesson11/lesson11.html",
+  to = "D://SMT201_AY2023-24T1/02-Lesson/pdf/Lesson11.pdf"
 )
 ```
