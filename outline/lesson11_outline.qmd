@@ -50,11 +50,7 @@ Balasubramani, K., Gomathi, M., & Prasad, S. (2016) ["GIS-based Service Area Ana
 
 ### QGIS Methods
 
--   [QGIS Network Analysis Capabilities](https://www.giscourse.com/qgis-network-analysis-capabilities/)
-
--   [6.3. Lesson: Network Analysis](https://docs.qgis.org/3.22/en/docs/training_manual/vector_analysis/network_analysis.html) of QGIS Training Manual.
-
--   [About QNEAT3](https://root676.github.io/)
+-   [Algorithm description OD-Matrices](https://root676.github.io/OdMatrixAlgs) of QNET3
 
 -   Linden, Philip (2021)[**Improving accessibility to the bus service**](https://www.diva-portal.org/smash/get/diva2:1572503/FULLTEXT01.pdf). Master Thesis, UMEA Universitet.
 
