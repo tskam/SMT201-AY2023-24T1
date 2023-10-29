@@ -140,7 +140,7 @@ Hexagons reduce sampling bias due to edge effects of the grid shape, this is rel
 
 ------------------------------------------------------------------------
 
-### Distance to Nearest Location
+## Accessibility Measure: Distance to Nearest Location
 
 ::: columns
 ::: {.column width="50%"}

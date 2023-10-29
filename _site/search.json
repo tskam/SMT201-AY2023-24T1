@@ -1517,5 +1517,12 @@
     "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
     "section": "Spatial Accessibility Measure (SAM)",
     "text": "Spatial Accessibility Measure (SAM)\nThe formula:\n\nwhere\n\nAai is the accessibility in ED i,\nnj is the capacity of the target facility j.\npi is the demand of this ED, and\ndij is the network distance between the EDi and each facility j.\n\n\nReference: Stamatis Kalogirou & Ronan Foley (2006) “Health, place and Hanly: Modelling accessibility to hospitals in Ireland”, Irish Geography, Volume 39(1), 2006, 52-68."
+  },
+  {
+    "objectID": "lesson/Lesson11/lesson11.html#accessibility-measure-distance-to-nearest-location",
+    "href": "lesson/Lesson11/lesson11.html#accessibility-measure-distance-to-nearest-location",
+    "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
+    "section": "Accessibility Measure: Distance to Nearest Location",
+    "text": "Accessibility Measure: Distance to Nearest Location\n\n\nThe formula:\n\n\nLimitation of the method:\n\nDoes not consider the size/attractiveness of the closest location, thereby implicitly treating all locations as being equally attractive.\nDoes not consider the cumulative effect of multiple accessible locations (e.g. is a zone that is within 1.1 km of two MRT stations inferior to one that is within 1.0 km of a single station?"
   }
 ]
