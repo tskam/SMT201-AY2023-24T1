@@ -56,13 +56,7 @@ Balasubramani, K., Gomathi, M., & Prasad, S. (2016) ["GIS-based Service Area Ana
 
 -   [About QNEAT3](https://root676.github.io/)
 
--   Alba KUCUKALI, et. al. (2022) ["Evaluating the pedestrian accessibility to public services using open-source geospatial data and QGIS software"](https://www.researchgate.net/publication/362883338_Evaluating_the_pedestrian_accessibility_to_public_services_using_open-source_geospatial_data_and_QGIS_software), *Nova Geodesia* 2(2):42.
-
--   UNESCO (2022) [Isochrone-based catchment areas for education](https://unesdoc.unesco.org/ark:/48223/pf0000381654/PDF/381654eng.pdf.multi), **IIEP Technical Note**.
-
 -   Linden, Philip (2021)[**Improving accessibility to the bus service**](https://www.diva-portal.org/smash/get/diva2:1572503/FULLTEXT01.pdf). Master Thesis, UMEA Universitet.
-
--   QGIS Tutorials and Tips, [Service Area Analysis using Openrouteservice(QGIS3)](https://www.qgistutorials.com/en/docs/3/service_area_analysis.html).
 
 -   Ricky Holzer (April 30, 2018) [Analyzing Pedestrian Accessibility Using QGIS and OpenStreetMaps Data](https://www.rickyholzer.com/2018/analyzing-pedestrian-accessibility-using-qgis-and-openstreetmaps-data/)
 
