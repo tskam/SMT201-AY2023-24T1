@@ -17,8 +17,8 @@ In this lesson, you will learn how to applied digital image analysis for urban p
 
 -   Multi-spectral Classification for Urban Land Use/Land Cover (LULC) Mapping
     -   Unsupervised classification
-
     -   Supervised classification
+    -   [OBIA – Object-Based Image Analysis(GEOBIA)](https://gisgeography.com/obia-object-based-image-analysis-geobia/)
 -   Urban LULC Change Detection
 -   Urban Features Extraction techniques
 
