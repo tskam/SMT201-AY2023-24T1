@@ -73,6 +73,9 @@ In this lesson, you will learn how to applied digital image analysis for urban p
 -   [Semi-Automatic Classification Plugin (SCP) for QGIS](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html)
 -   [Orfeo toolbox Plugin for QGIS](https://www.orfeo-toolbox.org/CookBook/index.html)
 -   [OTB Plugin installation](http://wiki.awf.forst.uni-goettingen.de/wiki/index.php/OTB_Plugin_installation)
+-   [Object-based Image classification in QGIS](https://www.youtube.com/watch?v=fX2UpOwoYLk).  This video tutorial demonstrates the use of OTB to perform Object-based Image classification (OBIA).
+-   [GEOBIA](https://github.com/salomoneinstein/QuickStepGeobia)
+-   [GEOBIA - Geographic Object-Based Image Analysis](https://www.youtube.com/watch?v=oW7l4vUlr3A).  This video tutorial tutorial demonstrates the use GEOBIA QGIS plugin to perform Geographic Object-Based Image Analysis (GEOBIA).
 -   [dzetsaka: Classification tool](https://github.com/nkarasiak/dzetsaka) supports Random Forest, KNN and SVM for supervised classification of multi-spectral satellite data.
 -   [Neural Network MLPClassifier](https://mlp-image-classifier.readthedocs.io/en/latest/index.html) provides a supervised classification method for multi-band passive optical remote sensing data based on the Neural Network MLPClassifier by scikit-learn.
 -   [GEOSYS Plugin](https://github.com/GEOSYS/qgis-plugin)
