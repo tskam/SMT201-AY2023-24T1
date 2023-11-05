@@ -278,13 +278,13 @@ To learn more, click on this [link](https://github.com/tomchadwin/qgis2web/wiki)
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ### Introducing tree.js
 
 ::: columns
 ::: {.column width="50%"}
--   A cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL. 
+-   A cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL.
 
 -   To learn more and download, click on this [link](https://threejs.org/).
 :::
@@ -296,7 +296,7 @@ To learn more, click on this [link](https://github.com/tomchadwin/qgis2web/wiki)
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ### qgis2tree plug-in
 
@@ -311,9 +311,43 @@ To learn more, click on this [link](https://github.com/tomchadwin/qgis2web/wiki)
 
 ::: {.column width="50%"}
 ![](img/image17.jpg)
+:::
+:::
 
+## GIS and Social Consciousness
+
+::: columns
+::: {.column width="50%"}
+The true value of GIS is: ![](img/image18a.jpg){width="800"}
+:::
+
+::: {.column width="50%"}
+To create a better world. ![](img/image18b.jpg)
 :::
 :::
+
+---
+
+### Learning from book
+
+[Environmental issues in the Mekong Delta: Drivers, consequences, and management outlooks](https://repository.nie.edu.sg/bitstream/10497/24049/1/GD-2022-1-1.pdf)
+
+![](img/image19.jpg)
+
+---
+
+### The Hard Truth
+
+[The Quest for Dirt](https://storymaps.arcgis.com/stories/ffe819e79f4a4f6192c6a7e122523d70)
+
+![](img/image20.jpg)
+
+## What is Next?
+
+![](img/image21.jpg)
+
+For more information, please visit this [link](https://www.sla.gov.sg/geoworks/programmes/geochallenges/asean-geospatial-challenge-2024).
+
 
 ```{r}
 #| echo: false
