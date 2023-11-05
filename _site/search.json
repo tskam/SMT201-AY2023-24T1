@@ -648,7 +648,7 @@
     "href": "outline/lesson12_outline.html#references",
     "title": "Lesson 12: Sharing Geographic Information on the Web: GeoWeb Mapping",
     "section": "References",
-    "text": "References\n\nConcepts and Methods\n\nWeb mapping\n7 great alternatives to the Google Maps API\nEssential Resources: Mapping applications, frameworks and libraries\nResearch Explores How to Keep Up With Changing Web Mapping Technology\n\n\n\nApplications\n\n\nQGIS Methods\n\nqgis2web plugin\nCreating a WebMap using QGIS2WEB\nQGIS2Web plugin - search tool for multiple layers\nQGIS Cloud"
+    "text": "References\n\nConcepts and Methods\n\nWeb mapping\n7 great alternatives to the Google Maps API\nEssential Resources: Mapping applications, frameworks and libraries\nResearch Explores How to Keep Up With Changing Web Mapping Technology"
   },
   {
     "objectID": "outline/lesson01_outline.html#overview",
@@ -1524,5 +1524,12 @@
     "title": "Lesson 11: Geographic Accessibility Analysis with GIS",
     "section": "Accessibility Measure: Distance to Nearest Location",
     "text": "Accessibility Measure: Distance to Nearest Location\n\n\nThe formula:\n\n\nLimitation of the method:\n\nDoes not consider the size/attractiveness of the closest location, thereby implicitly treating all locations as being equally attractive.\nDoes not consider the cumulative effect of multiple accessible locations (e.g. is a zone that is within 1.1 km of two MRT stations inferior to one that is within 1.0 km of a single station?"
+  },
+  {
+    "objectID": "outline/lesson12_outline.html#qgis-methods",
+    "href": "outline/lesson12_outline.html#qgis-methods",
+    "title": "Lesson 12: Sharing Geographic Information on the Web: GeoWeb Mapping",
+    "section": "QGIS Methods",
+    "text": "QGIS Methods\n\nQGIS2WEB Plugin\n\nqgis2web plugin\nMake an Open-Source Web Map with QGIS\nCreating a WebMap using QGIS2WEB\nQGIS2Web plugin - search tool for multiple layers\n\n\n\nQgis2threejs\n\nQgis2threejs Plugin\nCreating 3D Maps and Animations using QGIS\nthree.js"
   }
 ]

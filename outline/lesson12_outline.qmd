@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Overview
 
-In this lesson, you will learn the basic concepts of GeoWeb Mapping.  You will also gain hands-on experience on creating geoweb application using QGIS extension.
+In this lesson, you will learn the basic concepts of GeoWeb Mapping. You will also gain hands-on experience on creating geoweb application using QGIS extension.
 
 ## Content
 
@@ -38,14 +38,24 @@ In this lesson, you will learn the basic concepts of GeoWeb Mapping.  You will a
 -   [Essential Resources: Mapping applications, frameworks and libraries](http://www.visualisingdata.com/index.php/2013/09/essential-resources-mapping-applications-frameworks-and-libraries/)
 -   [Research Explores How to Keep Up With Changing Web Mapping Technology](http://www.directionsmag.com/articles/research-explores-how-to-keep-up-with-changing-web-mapping-technology/294410)
 
-### Applications
+## QGIS Methods
 
-### QGIS Methods
+### QGIS2WEB Plugin
 
 -   [qgis2web plugin](https://github.com/tomchadwin/qgis2web/wiki)
+
+- [Make an Open-Source Web Map with QGIS](https://www.youtube.com/watch?v=ZHynmLFhRZs)
 
 -   [Creating a WebMap using QGIS2WEB](https://www.youtube.com/watch?v=0V0V6TWBE14)
 
 -   [QGIS2Web plugin - search tool for multiple layers](https://www.youtube.com/watch?v=aVuL7hP-r7o)
 
--   [QGIS Cloud](https://qgiscloud.com/)
+### Qgis2threejs
+
+-   [Qgis2threejs Plugin](https://qgis2threejs.readthedocs.io/en/docs/index.html#)
+
+-   [Creating 3D Maps and Animations using QGIS](https://www.youtube.com/watch?v=hSZSVQqX80k)
+
+-   [three.js](https://threejs.org/)
+
+
