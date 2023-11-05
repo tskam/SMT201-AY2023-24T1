@@ -278,6 +278,43 @@ To learn more, click on this [link](https://github.com/tomchadwin/qgis2web/wiki)
 :::
 :::
 
+---
+
+### Introducing tree.js
+
+::: columns
+::: {.column width="50%"}
+-   A cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL. 
+
+-   To learn more and download, click on this [link](https://threejs.org/).
+:::
+
+::: {.column width="50%"}
+-   3D Webmap powered by three.js?
+
+![](img/image16.jpg)
+:::
+:::
+
+---
+
+### qgis2tree plug-in
+
+::: columns
+::: {.column width="50%"}
+-   qgis2tree generates a 3d webmap by using DEM, vector data and raster data from your current QGIS project.
+
+-   You can save the 3D model in glTF format for 3DCG or 3D printing.
+
+-   To learn more, click on this [link](https://qgis2threejs.readthedocs.io/en/docs/).
+:::
+
+::: {.column width="50%"}
+![](img/image17.jpg)
+
+:::
+:::
+
 ```{r}
 #| echo: false
 #| eval: false
