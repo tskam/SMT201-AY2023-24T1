@@ -348,6 +348,13 @@ To create a better world. ![](img/image18b.jpg)
 
 For more information, please visit this [link](https://www.sla.gov.sg/geoworks/programmes/geochallenges/asean-geospatial-challenge-2024).
 
+---
+
+### Shameful Advertisement!
+
+![](img/image22.jpg)
+
+For more information, please click on this [link](https://is415-ay2022-23t2.netlify.app/).
 
 ```{r}
 #| echo: false
