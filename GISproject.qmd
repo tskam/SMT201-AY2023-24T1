@@ -209,6 +209,18 @@ Note that the following examples are for references purposes. You are urged to u
 
 ## Peer Learning
 
+- [Group 1: Untitled](https://geomusketeers.netlify.app/)
+- [Group 2: 2023 LIBYA FLOOD](https://smt201-g2-2023.netlify.app/)
+- [Group 3: Saving Derna](https://smt201-gist3.netlify.app/)
+- [Group 4: FloodSafe: Derna, Libya](https://smt201groupproject.netlify.app/)
+- [Group 5: Derna EvacuConnect](https://smt201-grp5-ay2023-24t1.netlify.app/)
+- [Group 6: Accessibility Analysis and Mapping of Emergency Evacuation Centres and Medical Services](https://smt201ay23-24-group6.netlify.app/)
+- [Group 7: Untitled](https://gisproject-group7.netlify.app/)
+- [Group 8: Untitled](https://long-phung-urban-pte-ltd.netlify.app/)
+- [Group 9: Land Cover Change Analysis in Libya 2023](https://smt201-group9-libya-flood-mapping.netlify.app/)
+- [Group 10: FloodScape](https://smt201-ay2023-24t1-team10.netlify.app/)
+- [Group 11: Derna in Distress](https://smt201-group11.netlify.app/)
+
 ## Reference
 
 ### Non-academic Publication
@@ -256,6 +268,3 @@ Zhixia Wu et. al. (2023) [Urban Flood Loss Assessment and Index Insurance Compen
 Oliveira, E.R.; Disperati, L.; Alves, F.L. (2023) [MINDED-FBA: An Automatic Remote Sensing Tool for the Estimation of Flooded and Burned Areas](https://www.mdpi.com/2072-4292/15/3/724). *Remote Sensing*, 28 pages.
 
 Manuel A. Aguilar et. al. (2016) ["Classification of urban areas from GeoEye-1 imagery through texture features based on Histograms of Equivalent Patterns"](https://www.tandfonline.com/doi/abs/10.5721/EuJRS20164906) *European Journal of Remote Sensing*, Vol. 49, pp. 93-120.
-
-
-
